@@ -266,8 +266,8 @@ The summary should be regenerated **periodically** (not on every push) to avoid 
 **IMPLEMENTED** - See `.github/workflows/generate-summary.yml` in the `home-brain` repo.
 
 Runs weekly on Sundays (and on manual trigger) to:
-- Extract domains from top-level folders
-- Extract sample topics from README.md titles
+- Extract domains from `domains/` subfolder (actual content domains like family, travel, programming)
+- Extract sample topics from README.md titles (balanced across top-level folders)
 - List recently modified files (by git history)
 - Upload `_brain_summary.json` to R2
 
