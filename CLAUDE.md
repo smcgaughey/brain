@@ -236,6 +236,8 @@ The `home-brain` repo has a GitHub Action (`.github/workflows/sync-to-r2.yml`) t
 
 **Expanding to all files:** Change `--include "*.md"` to exclusion-based filtering in the workflow.
 
+**Note:** R2 sync and AI Search re-indexing happen automatically. The `sync-to-r2` workflow triggers on any push to main (including API merges). No manual intervention needed.
+
 ## Brain Summary (Dynamic Tool Metadata)
 
 The MCP server can load a `_brain_summary.json` file from R2 to enrich the `search_brain` tool description with actual content topics. This helps Claude understand when to use the tool.
