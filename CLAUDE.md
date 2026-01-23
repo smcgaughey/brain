@@ -263,49 +263,15 @@ The summary should be regenerated **periodically** (not on every push) to avoid 
 
 ### home-brain GitHub Action (`generate-summary.yml`)
 
-**TO BE IMPLEMENTED** in the `home-brain` repo:
+**IMPLEMENTED** - See `.github/workflows/generate-summary.yml` in the `home-brain` repo.
 
-```yaml
-name: Generate Brain Summary
+Runs weekly on Sundays (and on manual trigger) to:
+- Extract domains from top-level folders
+- Extract sample topics from README.md titles
+- List recently modified files (by git history)
+- Upload `_brain_summary.json` to R2
 
-on:
-  schedule:
-    - cron: '0 0 * * 0'  # Weekly on Sundays
-  workflow_dispatch:      # Manual trigger
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate summary
-        run: |
-          # Extract domains from top-level folders
-          DOMAINS=$(ls -d */ | grep -v '^\.' | sed 's/\///' | jq -R . | jq -s .)
-
-          # Extract sample topics from folder names and file titles
-          TOPICS=$(find . -name "README.md" -exec head -1 {} \; | grep "^#" | sed 's/^# //' | head -10 | jq -R . | jq -s .)
-
-          # Recent files
-          RECENT=$(ls -t **/*.md 2>/dev/null | head -5 | jq -R . | jq -s .)
-
-          # Build JSON
-          jq -n \
-            --argjson domains "$DOMAINS" \
-            --argjson topics "$TOPICS" \
-            --argjson recent "$RECENT" \
-            '{domains: $domains, topics: $topics, recentFiles: $recent, lastUpdated: now | todate}' \
-            > _brain_summary.json
-
-      - name: Upload to R2
-        run: |
-          aws s3 cp _brain_summary.json s3://home-brain-store/_brain_summary.json
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT }}
-```
+**Note:** This is a **temporary solution** - see [Service Evolution](#service-evolution-backlog) for plans to move this functionality into git-brain itself.
 
 ### Important: Non-Exhaustive Framing
 
@@ -316,14 +282,14 @@ The summary is explicitly framed as **non-exhaustive** in the tool description. 
 
 ## Current Status
 
-**v1.1 - Improved search_brain metadata:**
+**v1.2 - Dynamic brain summary:**
 - ✅ MCP Server deployed at `https://home-brain-mcp.dudgeon.workers.dev/mcp`
 - ✅ All 5 tools working: `about`, `search_brain`, `get_document`, `list_recent`, `list_folders`
 - ✅ `/doc/*` endpoint for direct document access with source links
 - ✅ Improved `search_brain` description with scope guidance
-- ✅ Support for `_brain_summary.json` dynamic enrichment (optional)
+- ✅ Support for `_brain_summary.json` dynamic enrichment
 - ✅ Search results include clickable source URLs
-- ⏳ `generate-summary.yml` Action not yet implemented in home-brain repo
+- ✅ `generate-summary.yml` Action implemented in home-brain repo
 
 ## Proposed Next Steps
 
@@ -347,6 +313,38 @@ The summary is explicitly framed as **non-exhaustive** in the tool description. 
 8. **MCP Resources** - Expose documents as MCP resources (not just tools) for richer client integration.
 
 9. **Version history** - Track document versions and allow retrieving previous versions.
+
+## Service Evolution Backlog
+
+**Goal:** Make git-brain a turnkey service where users point it at a GitHub repo, authenticate, and it "just works" - no GitHub Actions, secrets, or manual setup required in the source repo.
+
+### Current Temporary Solutions (in source repo)
+
+These are currently implemented as GitHub Actions in `home-brain` but should eventually be handled by git-brain itself:
+
+| Feature | Current Location | Target |
+|---------|-----------------|--------|
+| File sync to R2 | `home-brain/.github/workflows/sync-to-r2.yml` | git-brain Worker (webhook/polling) |
+| Summary generation | `home-brain/.github/workflows/generate-summary.yml` | git-brain Worker (on sync) |
+
+### Migration Path
+
+1. **GitHub App or OAuth** - git-brain authenticates with GitHub directly (not via secrets in source repo)
+2. **Webhook receiver** - git-brain receives push events from GitHub and syncs files itself
+3. **Built-in summary generation** - git-brain generates `_brain_summary.json` after each sync
+4. **Self-service onboarding** - User adds git-brain GitHub App to their repo, git-brain auto-provisions R2 bucket and AI Search
+
+### Blocked By
+
+- **Authentication** - Need OAuth or GitHub App before git-brain can access private repos
+- **Multi-tenancy** - Current architecture is single-tenant; need per-user R2 buckets and AI Search instances
+
+### Benefits When Complete
+
+- Zero setup in source repo (no workflows, no secrets)
+- Works with any GitHub repo without modification
+- Centralized management in git-brain
+- Easier to add new source repos
 
 ## References
 
