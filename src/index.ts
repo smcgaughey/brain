@@ -159,16 +159,39 @@ export class HomeBrainMCP extends McpAgent<Env> {
     this.initR2Prefix();
     // Try to load brain summary from R2 (non-blocking, cached)
     await this.loadBrainSummary();
-    // Register about tool using deprecated .tool() API with empty zod schema
+    // Register about tool — returns different content based on whether installation is scoped
     this.server.tool(
       "about",
       "Get information about Git Brain and what this MCP server does.",
       {},
-      async () => ({
-        content: [
-          {
-            type: "text" as const,
-            text: `# Git Brain
+      async () => {
+        if (!this.r2Prefix) {
+          return {
+            content: [
+              {
+                type: "text" as const,
+                text: `# Brainstem
+
+Brainstem connects your private GitHub repos to AI chat clients as a searchable knowledge base.
+
+## How to Connect
+
+You're seeing this because you connected without a personalized MCP URL. To access your knowledge base:
+
+1. **Connect your repo:** Visit https://brainstem.cc/setup to install the GitHub App on your repository
+2. **Authenticate:** Visit https://brainstem.cc/oauth/authorize to get your MCP URL and bearer token
+3. **Use your personalized URL:** Connect your AI client to \`https://brainstem.cc/mcp/{your-uuid}\`
+
+Once connected with your personalized URL, you'll have access to search, document retrieval, folder browsing, and more.`,
+              },
+            ],
+          };
+        }
+        return {
+          content: [
+            {
+              type: "text" as const,
+              text: `# Git Brain
 
 Git Brain exposes private GitHub repos as remote MCP servers, making your personal knowledge base accessible to Claude.
 
@@ -183,9 +206,10 @@ Git Brain exposes private GitHub repos as remote MCP servers, making your person
 - get_document: Read a specific file by path
 - list_recent: See recently modified files
 - list_folders: Browse the folder structure`,
-          },
-        ],
-      })
+            },
+          ],
+        };
+      }
     );
 
     // Register all MCP tools
@@ -2100,53 +2124,87 @@ function renderOAuthSuccessPage(
   clearCookie: string,
   installationUuid: string | null
 ): Response {
+  const mcpUrl = installationUuid
+    ? `${env.WORKER_URL}/mcp/${installationUuid}`
+    : null;
+
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Authenticated! - Brain Stem</title>
-  <style>${SITE_STYLES}</style>
+  <title>Authenticated! - Brainstem</title>
+  <style>${SITE_STYLES}
+.copy-field { display: flex; gap: 8px; align-items: stretch; margin: 0.75rem 0; }
+.copy-field input { flex: 1; font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 0.875rem; padding: 10px 12px; border: 1px solid #d4d4d8; border-radius: 8px; background: #f4f4f5; color: #1a1a1a; outline: none; }
+.copy-field input:focus { border-color: #5a67d8; }
+.copy-btn { padding: 10px 16px; border: 1px solid #d4d4d8; border-radius: 8px; background: white; color: #1a1a1a; font-size: 0.875rem; font-weight: 500; cursor: pointer; white-space: nowrap; transition: all 0.15s ease; }
+.copy-btn:hover { background: #f4f4f5; border-color: #a1a1aa; }
+.copy-btn.copied { background: #f0fdf4; border-color: #bbf7d0; color: #166534; }
+.field-label { font-size: 0.875rem; font-weight: 500; color: #52525b; margin-bottom: 4px; }
+.field-note { font-size: 0.8125rem; color: #6b6b6b; margin-top: 4px; }
+.warning-box { background: #fef3c7; border: 1px solid #fde68a; padding: 0.75rem 1rem; border-radius: 8px; margin: 1rem 0; font-size: 0.875rem; }
+.warning-box strong { color: #92400e; }
+.info-box { background: #eff6ff; border: 1px solid #bfdbfe; padding: 0.75rem 1rem; border-radius: 8px; margin: 1rem 0; font-size: 0.875rem; color: #1e40af; }
+  </style>
 </head>
 <body>
   <div class="container">
     <h1 class="success">Authenticated!</h1>
-    <p>Welcome, <strong>${escapeHtml(githubLogin)}</strong>. You're now authenticated with Brain Stem.</p>
+    <p>Welcome, <strong>${escapeHtml(githubLogin)}</strong>.</p>
 
+    ${mcpUrl ? `
     <hr>
+    <h2>Connect to Claude.ai</h2>
+    <p>In Claude.ai: Settings &rarr; Connectors &rarr; Add custom connector</p>
 
-    <h2>Your bearer token</h2>
-    <div class="highlight">${escapeHtml(sessionId)}</div>
-    <div class="highlight-warning">
-      <strong>Copy this token now.</strong> It won't be shown again.<br>
-      Expires: ${expiresAt.toISOString()}
+    <div class="field-label">Remote server MCP url</div>
+    <div class="copy-field">
+      <input type="text" readonly value="${escapeHtml(mcpUrl)}" id="mcp-url">
+      <button class="copy-btn" onclick="copyField('mcp-url', this)">Copy</button>
     </div>
+    <div class="info-box">OAuth Client ID and Client Secret are not needed &mdash; Claude.ai handles authentication automatically.</div>
+    ` : `
+    <hr>
+    <div class="warning-box"><strong>No installation found.</strong> <a href="/setup">Connect a repository</a> first, then return here to get your MCP URL.</div>
+    `}
 
     <hr>
-
-    <h2>Configuration</h2>
+    <h2>Claude Code / Desktop</h2>
     <p>Add to your MCP config:</p>
+
+    <div class="field-label">Bearer Token</div>
+    <div class="copy-field">
+      <input type="text" readonly value="${escapeHtml(sessionId)}" id="bearer-token">
+      <button class="copy-btn" onclick="copyField('bearer-token', this)">Copy</button>
+    </div>
+    <div class="field-note">Expires: ${expiresAt.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</div>
+
+    ${mcpUrl ? `
     <pre><code>{
   "mcpServers": {
     "my-brain": {
-      "url": "${escapeHtml(env.WORKER_URL)}/mcp/${installationUuid ? escapeHtml(installationUuid) : '{installation-uuid}'}",
+      "url": "${escapeHtml(mcpUrl)}",
       "headers": {
         "Authorization": "Bearer ${escapeHtml(sessionId)}"
       }
     }
   }
 }</code></pre>
-    ${installationUuid ? '' : '<p class="muted">Replace <code>{installation-uuid}</code> with your installation ID from the <a href="/setup">setup page</a>.</p>'}
+    ` : ''}
 
-    <hr>
-
-    <h2>Next steps</h2>
-    <ol>
-      <li>Copy the configuration above</li>
-      <li>Paste into your MCP client settings</li>
-      <li>Restart your AI client to connect</li>
-    </ol>
+    <div class="warning-box"><strong>Copy these values now.</strong> They won't be shown again.</div>
   </div>
+  <script>
+function copyField(id, btn) {
+  const input = document.getElementById(id);
+  navigator.clipboard.writeText(input.value).then(() => {
+    btn.textContent = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = 'Copy'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+  </script>
 </body>
 </html>`;
 
@@ -2436,10 +2494,18 @@ export default {
 
     // /doc/* endpoint removed (ADR-002 Phase 0) — use get_document MCP tool instead
 
-    // Allow /mcp and /mcp/message for SSE transport (POST messages from authenticated sessions)
-    // Block unauthenticated GET to /mcp (legacy endpoint removed)
+    // /mcp and /mcp/message SSE transport
+    // With installation query param (set by handleUserMcp): full MCP with all tools
+    // Without installation param (bare /mcp): generic MCP with about-only tool
     if (url.pathname === "/mcp/message" || (url.pathname === "/mcp" && request.method === "POST")) {
       return mcpHandler.fetch(request, env, ctx);
+    }
+    // GET /mcp without UUID — return 404 (not an MCP endpoint)
+    if (url.pathname === "/mcp" && request.method === "GET") {
+      return new Response(JSON.stringify({
+        error: "Not found",
+        message: "Use /mcp/{uuid} with a bearer token. Visit /setup to get started.",
+      }), { status: 404, headers: { "Content-Type": "application/json" } });
     }
 
     return new Response("Not found", { status: 404 });

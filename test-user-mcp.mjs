@@ -2,8 +2,8 @@
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { SSEClientTransport } from "@modelcontextprotocol/sdk/client/sse.js";
 
-const MCP_URL = "https://brainstem.cc/mcp/5bc6fbd2-52cc-4974-998a-d4203ea60d40";
-const BEARER_TOKEN = process.env.BRAINSTEM_TOKEN || "518ba2f5-c4f1-46b2-ac65-4fd8935f6d8d";
+const MCP_URL = "https://brainstem.cc/mcp/66e64220-2136-4951-982d-71770db10689";
+const BEARER_TOKEN = process.env.BRAINSTEM_TOKEN || "7df9396a-dbf3-4f5a-bd0f-b337659c152d";
 
 async function main() {
   console.log("Connecting to:", MCP_URL);
