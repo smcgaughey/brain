@@ -132,6 +132,7 @@ Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to
 **Project Duration:** 38 days from IRB approval to submission (December 22, 2025 - January 29, 2026) - Exceptionally rapid turnaround demonstrating productivity
 ## Activity Log
 
+- **2026-02-02:** Adolescent SI project assigned manuscript number ACADEMICPEDS-D-26-00081 at Academic Pediatrics
 - **2026-02-02:** Adolescent SI project has been assigned manuscript number ACADEMICPEDS-D-26-00081
 
 ## Notes
