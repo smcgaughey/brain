@@ -1,14 +1,14 @@
 ---
-title: callback-rct
-type: note
+title: ED Callback RCT
+type: research
+aliases: [callback RCT, Jack Marshall RCT, ED return visits, phone callback study]
+collaborators: [Jack Marshall, Miriam Elman, Morgan Black, Lauren Ready, Walker Andrews, Zach Brannan]
+status: in-preparation
+position: middle-author
+theme: pediatric-outcomes
+journal: Annals of Emergency Medicine
+tags: [RCT, emergency-medicine, callback, ED-returns, OHSU, Annals]
 permalink: research/callback-rct
-tags:
-- RCT
-- emergency-medicine
-- callback
-- ED-returns
-- OHSU
-- Annals
 ---
 
 # ED Callback RCT - Reducing Emergency Department Return Visits

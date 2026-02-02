@@ -1,6 +1,12 @@
 ---
-title: nuts-bolts-ai-literacy-paper
-type: note
+title: Nuts & Bolts AI Literacy Paper
+type: research
+aliases: [nuts bolts, AI literacy, Academic Pediatrics AI, Jordan AI paper, Jessica Bailey paper]
+collaborators: [Jordan Wackett, Jessica Bailey]
+status: in-preparation
+position: 1st-author
+theme: ai-innovation
+journal: Academic Pediatrics
 permalink: research/nuts-bolts-ai-literacy-paper
 ---
 

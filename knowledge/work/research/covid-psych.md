@@ -1,6 +1,12 @@
 ---
-title: covid-psych
-type: note
+title: COVID Pediatric Mental Health Trends
+type: research
+aliases: [COVID psych, Maya paper, pandemic mental health, Maya Singh Sharkey study]
+collaborators: [Maya Singh Sharkey, David Sheridan, Skyler Kieran]
+status: in-preparation
+position: senior-author
+theme: mental-health
+journal: Pediatric Emergency Care
 permalink: research/covid-psych
 ---
 

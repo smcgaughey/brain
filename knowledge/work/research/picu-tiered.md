@@ -1,14 +1,14 @@
 ---
-title: picu-tiered
+title: ED to PICU Tiered Admission Study
 type: research
+aliases: [PICU tiered, Beech Burns PICU, tiered admission, ED to PICU]
+collaborators: [Beech Burns]
+status: in-preparation
+position: middle-author
+theme: pediatric-outcomes
+journal: TBD
+tags: [QI, pediatrics, PICU, emergency-medicine, admission-process, tier-system]
 permalink: research/picu-tiered
-tags:
-- QI
-- pediatrics
-- PICU
-- emergency-medicine
-- admission-process
-- tier-system
 ---
 
 # ED to PICU Tiered Admission System - Complete Research Summary

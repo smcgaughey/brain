@@ -1,6 +1,12 @@
 ---
-title: jama-peds
-type: note
+title: JAMA Pediatrics ED Readiness Study
+type: research
+aliases: [JAMA Peds, Newgard JAMA, ED readiness, pediatric mortality, Craig Newgard study]
+collaborators: [Craig Newgard]
+status: submitting
+position: middle-author
+theme: pediatric-outcomes
+journal: JAMA Pediatrics
 permalink: research/jama-peds
 ---
 

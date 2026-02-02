@@ -1,6 +1,12 @@
 ---
-title: Hypothermic Infants in the Emergency Department
-type: note
+title: Hypothermic Infants Study
+type: research
+aliases: [hypothermia, cold infants, hypothermic infants, JEM hypothermia, temperature stratification]
+collaborators: []
+status: under-review
+position: senior-author
+theme: pediatric-outcomes
+journal: Journal of Emergency Medicine
 permalink: research/hypothermic-infants-in-the-emergency-department
 ---
 

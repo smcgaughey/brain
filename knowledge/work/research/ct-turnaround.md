@@ -1,6 +1,12 @@
 ---
-title: ct-turnaround
-type: note
+title: CT Turnaround Times Study
+type: research
+aliases: [CT turnaround, Obert CT paper, radiology turnaround, Emergency Radiology paper]
+collaborators: [Obert Xu, Keith Cross, Louis Riccelli, Jack Marshall, Kenneth DeVane, Skyler Kieran, Beech Burns]
+status: under-review
+position: middle-author
+theme: informatics-qi
+journal: Emergency Radiology
 permalink: research/ct-turnaround
 ---
 

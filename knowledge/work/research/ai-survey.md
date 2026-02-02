@@ -1,6 +1,12 @@
 ---
-title: ai-survey
-type: note
+title: AI Knowledge Survey Study
+type: research
+aliases: [AI survey, SNAIL survey, AI literacy, Jaime AI study, Ana AI study]
+collaborators: [Jaime, Ana]
+status: in-preparation
+position: senior-author
+theme: ai-innovation
+journal: TBD
 permalink: research/ai-survey
 ---
 

@@ -1,6 +1,12 @@
 ---
-title: secure-chat
-type: note
+title: EHR Secure Messaging Study
+type: research
+aliases: [secure chat, WestJEM secure chat, Epic chat, ED messaging, secure messaging]
+collaborators: []
+status: under-review
+position: senior-author
+theme: informatics-qi
+journal: Western Journal of Emergency Medicine
 permalink: research/secure-chat
 ---
 

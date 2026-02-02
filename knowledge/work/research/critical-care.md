@@ -1,6 +1,12 @@
 ---
-title: critical-care
-type: note
+title: Critical Care Billing Capture Rate Study
+type: research
+aliases: [CC billing, critical care billing, Newgard billing study, CC capture rate]
+collaborators: [Craig Newgard, Obert Xu, Rochelle Fu, Skyler Kieran, Miriam Elman]
+status: in-preparation
+position: 1st-author
+theme: informatics-qi
+journal: Applied Clinical Informatics
 permalink: research/critical-care
 ---
 

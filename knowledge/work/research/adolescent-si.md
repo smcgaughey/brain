@@ -1,6 +1,12 @@
 ---
-title: adolescent-si
-type: note
+title: Adolescent Suicidal Ideation Prescribing Study
+type: research
+aliases: [adolescent SI, suicidal ideation, PCP prescribing, Sheridan SI study]
+collaborators: [Nithin Ravi, Monica Saladik, Laura Waagmeester, Dalton Wesemann, David Sheridan]
+status: under-review
+position: 1st-author
+theme: mental-health
+journal: Academic Pediatrics
 permalink: research/adolescent-si
 ---
 

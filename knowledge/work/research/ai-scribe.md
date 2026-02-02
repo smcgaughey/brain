@@ -1,6 +1,12 @@
 ---
-title: ai-scribe
-type: note
+title: AI Scribe Verbal Anchoring Paper
+type: research
+aliases: [AI scribe, Jordan Wackett paper, blind scribe, verbal anchoring, NEJM AI]
+collaborators: [Jordan Wackett]
+status: needs-resubmission
+position: 2nd-author
+theme: ai-innovation
+journal: TBD (rejected from NEJM AI)
 permalink: research/ai-scribe
 ---
 

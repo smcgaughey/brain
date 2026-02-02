@@ -1,6 +1,12 @@
 ---
-title: needs-assessment
-type: note
+title: Research Collaboration Needs Assessment
+type: research
+aliases: [needs assessment, focus groups, UTAUT study, research collaboration tool, Jaime needs assessment]
+collaborators: [Jaime]
+status: in-preparation
+position: 1st-author
+theme: informatics-qi
+journal: TBD
 permalink: research/needs-assessment
 ---
 
