@@ -1,0 +1,207 @@
+---
+title: ai-survey
+type: note
+permalink: research/ai-survey
+---
+
+# AI Knowledge Survey
+
+**Status:** In Preparation
+**Position:** Senior author
+**Theme:** AI & Clinical Innovation
+
+---
+
+## Submission Plan
+
+| Field | Value |
+|-------|-------|
+| Target Journal | TBD |
+| Timeline | May-Jun 2026 |
+
+---
+
+## Current Status
+- IRB approved
+- Ready for data collection
+
+---
+
+## Action Items
+- [ ] Launch survey
+- [ ] Collect data
+- [ ] Analyze results
+- [ ] Draft manuscript
+
+---
+
+## Notes
+- Survey of AI knowledge/attitudes among clinicians
+
+
+---
+
+## RESEARCH SUMMARY
+
+### Research Context & Background
+
+**Core Problem:** No standardized framework exists for teaching responsible AI use in clinical medicine. Educational institutions largely ban AI while students and residents continue using it, creating risks of unethical AI use and patient safety concerns when faculty cannot teach responsible practices.
+
+**Critical Knowledge Gap:** While research exists on medical student and resident attitudes toward AI, there is limited understanding of faculty knowledge, attitudes, and teaching approaches regarding AI in clinical practice. If faculty lack adequate AI knowledge, they cannot effectively teach medical students and residents safe AI use.
+
+**Research Hypothesis:** Medical students may be more knowledgeable about AI than faculty, given previous research showing older physicians lag in adopting new technology (e.g., EHR adoption patterns).
+
+### Primary Research Questions
+
+1. **Are medical students more knowledgeable about AI applications in clinical medicine than their faculty?**
+2. **Are clinical AI super users concentrated in a specific stage of medical training, age group, and/or specialty?**
+3. **Do users of AI perceive shame/stigma about their AI use?**
+
+### Methodology Approach
+
+**Study Design:** Cross-sectional survey research suitable for multi-institutional deployment
+
+**Target Population:** Three distinct groups across medical training continuum:
+- Medical students (preclinical and clinical years)
+- Residents (across specialties and training levels)
+- Faculty (attending physicians, clinical educators)
+
+**Survey Instrument Status:** 
+- Incorporates validated Scale for Assessment of Non-Experts' AI Literacy (SNAIL) to measure actual AI knowledge versus perceived knowledge
+- Streamlined from initial lengthy draft following Gehlbach & Artino survey design principles
+- Eliminated problematic agree/disagree formats, reverse-scored items, and negative wording
+- Designed for easy data analysis without requiring dedicated statistical support
+
+### Key Survey Domains
+
+**1. Demographics & Training Level**
+- Age, training stage, specialty, country, years in practice
+- Previous technology education/experience
+- Entry into clinical field relative to ChatGPT public release (Nov 30, 2022)
+
+**2. AI Use & Experience**
+- Current use in clinical vs. educational vs. research settings
+- Frequency and types of AI applications (documentation, clinical decision-making, patient communication)
+- Disclosure patterns (to patients, peers, faculty)
+- External validation practices
+
+**3. Knowledge & Literacy (SNAIL-based)**
+- Technical understanding of AI/ML concepts
+- Awareness of AI applications in medicine
+- Understanding of AI limitations and risks
+- Familiarity with specific tools (ChatGPT, Claude, Grok, OpenEvidence, etc.)
+- Recognition of AI in daily applications
+
+**4. Attitudes & Perceptions**
+- Confidence in AI technology
+- Trust in AI-generated recommendations
+- Perceived benefits and risks
+- Job security concerns
+- Ethical considerations
+- Views on patient-AI interaction
+
+**5. Education & Training**
+- Current AI training received
+- Sources of AI knowledge (institutional, self-taught, informal)
+- Awareness of institutional AI policies
+- Training needs and preferences
+- Preferred learning modalities
+
+### Key Literature Findings
+
+**From NotebookLM Comprehensive Review:**
+
+**Perception & Attitudes:**
+- General enthusiasm tempered by significant concerns about job security and ethics
+- Next generation views AI as partner rather than competitor
+- 42.4% of medical students expressed fear about AI developments (Jordan study)
+- Faculty concerned about being replaced or undervalued
+
+**Knowledge Gap:**
+- Widespread lack of familiarity with AI among future physicians
+- 66.2% disagreed medical schools provided AI education (Jordan)
+- Only 14% aware of AI through medical schools
+- Students show slightly higher familiarity than faculty with tools like ChatGPT
+- Majority rely on websites rather than structured institutional training
+
+**Clinical Use:**
+- AI scribes showing significant adoption (42% mental health, 32% primary care, 32% EM)
+- Estimated 15,700 hours saved in documentation over one year
+- Age and years since graduation NOT associated with AI scribe adoption likelihood
+- Over 50% believe AI can diagnose diseases automatically
+
+**Academic Integrity Concerns:**
+- Significant risks of academic dishonesty
+- AI "hallucination" problem - fabricating references with unwarranted confidence
+- Need for clear institutional policies on acceptable AI use
+- Critical need for AI literacy training including evaluation of AI outputs
+
+### Survey Design Best Practices Applied
+
+Following Gehlbach & Artino "Survey Checklist Manifesto":
+
+**Item Formulation:**
+- ✓ Avoided agree/disagree response formats
+- ✓ Used construct-specific response options
+- ✓ One question at a time (no multi-barreled items)
+- ✓ Positive language throughout
+- ✓ No reverse-scored items
+- ✓ Item formats match research questions
+
+**Response Options:**
+- ✓ Appropriate number of options (4-7 for rating scales)
+- ✓ All response options labeled
+- ✓ Verbal labels only
+- ✓ Balanced visual, numeric, and conceptual midpoints
+- ✓ Single column format
+
+**Survey Organization:**
+- ✓ Important items placed early
+- ✓ Branching logic for relevant items only
+- ✓ Scales used for complex topics (SNAIL integration)
+- ✓ Consistent visual layout
+- ✓ Sensitive items (demographics) placed later
+
+### Current Development Status
+
+**Completed:**
+- IRB approval obtained
+- Validated SNAIL instrument integrated
+- Survey refined based on evidence-based design principles
+- Eliminated institution-specific questions for broader deployment potential
+- Comprehensive stakeholder representation across training levels
+
+**Pending Decisions:**
+- Single-institution pilot vs. multi-institutional deployment
+- Final survey length optimization (target: 15-20 minutes)
+- Platform selection for deployment
+- Sampling strategy finalization
+
+### Timeline & Next Steps
+
+**Target:** May-June 2026 launch
+
+**Immediate Actions:**
+1. Finalize deployment strategy (single vs. multi-institutional)
+2. Complete pilot testing if single-institution approach chosen
+3. Establish data collection protocols
+4. Launch survey
+5. Monitor response rates and data quality
+6. Analyze results using SNAIL framework
+7. Prepare manuscript for publication
+
+### Research Significance
+
+This study addresses a critical gap in medical education by:
+1. Providing first comprehensive assessment of faculty AI knowledge vs. student knowledge
+2. Identifying AI "super users" and their characteristics across training continuum
+3. Exploring stigma/shame around AI use that may drive "underground" adoption
+4. Creating evidence base for developing responsible AI education curricula
+5. Informing institutional policies on AI integration in clinical training
+
+**Ultimate Goal:** Generate data to support systematic, safe, and ethical AI education framework that prevents improper AI use while leveraging its benefits for clinical practice and medical education.
+
+---
+
+*Research Summary Updated: January 24, 2026*
+*Collaborators: Steve (PI), Jaime (mentor), Ana (medical student collaborator)*
