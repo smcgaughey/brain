@@ -67,6 +67,7 @@ Data pull scheduled for February 6, 2026 (1 week). Moving forward with data coll
 
 ## Activity Log
 
+- **2026-02-03:** Critical Care Billing - Completed comprehensive preliminary and SPC analysis. Analyzed 50,390 encounters (OHSU 34,350, HMC 8,954, AHP 7,086) from Nov 2015-Nov 2025. Major findings: OHSU improved from 39.5% baseline (Phase 1) to 74.7% current (Phase 4) with transitions at Feb 2017, Aug 2020, Sep 2023. Community hospitals stable 80-90%. Patient characteristics: CC billed patients more severe (ESI 2.12 vs 2.22, Charlson 4.58 vs 4.17) but similar LOS (9.5 vs 9.4 hrs). Massive OHSU provider variation (25-100%). Generated 16 NEJM-style publication figures including phase-specific SPC charts. Created 3 R analysis scripts. Final data pull scheduled Feb 6. Need to document interventions at phase transition dates. Target submission March 2026 to Academic Emergency Medicine.
 - **2026-02-03:** Critical care billing - received billing data from Skyler, planning to review on 2/3
 
 ## Notes
