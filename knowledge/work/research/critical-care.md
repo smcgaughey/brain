@@ -65,6 +65,10 @@ Data pull scheduled for February 6, 2026 (1 week). Moving forward with data coll
 - **February/March 2026 (planned)**: Manuscript drafting
 - **March/April 2026 (planned)**: Target submission
 
+## Activity Log
+
+- **2026-02-03:** Critical care billing - received billing data from Skyler, planning to review on 2/3
+
 ## Notes
 
 ### Methodology Evolution
@@ -74,7 +78,7 @@ Project underwent significant transformation from intervention-focused design to
 Comprehensive criteria established encompassing: ESI Level 1, critical procedures (CPR, intubation, cardioversion, pacing), ICU admissions from ED, critical medications (vasopressors, antiarrhythmics, thrombolytics, IM antipsychotics), and critical orders. Obert providing clinical expertise for final criterion validation.
 
 ### Primary Outcome
-**CC Capture Rate** = (CC-eligible encounters billed as critical care) / (Total CC-eligible encounters) × 100
+**CC Capture Rate** = (CC-eligible encounters billed as critical care) / (Total CC-eligible encounters) Ã 100
 This proportion-based metric with 100% as optimal allows straightforward descriptive analysis without complex adjustment.
 
 ### Key Variables
