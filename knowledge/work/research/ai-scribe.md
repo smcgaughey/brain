@@ -72,7 +72,7 @@ The manuscript grounds the communication challenge in established communication 
    - Example: "On review of outpatient labs from yesterday, the hemoglobin was 8.2"
 
 2. **Category Anchors:** Clarify where information belongs in note structure
-   - Compensates for AI's inability to see transitions (bedside → computer)
+   - Compensates for AI's inability to see transitions (bedside â computer)
    - Example: "On physical exam..." or "Regarding the assessment..."
 
 3. **Action Anchors:** Clarify what clinician is currently doing
@@ -183,6 +183,10 @@ The manuscript explicitly acknowledges:
 - [ ] Resubmit
 
 ---
+
+## Activity Log
+
+- **2026-02-03:** CC billing project - Finalized secondary aims as purely descriptive (abandoned intervention approach). Four aims: (1) temporal pattern analysis using SPC, (2) quantify provider-level variation, (3) describe patient characteristics, (4) describe patterns across hospital types for benchmarking WITHOUT formal statistical comparison. Craig cautioned against comparing OHSU vs community hospitals due to unmeasured confounding. Charlson will describe populations, not adjust comparisons. Updated data dictionary and project summary with final aims. Already emailed Rochelle Fu for statistical consultation.
 
 ## Notes
 - AI scribe/documentation study
