@@ -23,7 +23,7 @@ permalink: research/covid-psych
 | Target Journal | Pediatric Emergency Care or Journal of Emergency Medicine |
 | MS# | Not yet submitted |
 | Submitted | Target: End of January 2026 |
-| Decision | — |
+| Decision | â |
 
 ## Co-Authors
 - Maya Singh Sharkey (MD Candidate Class of 2026, OHSU) - **Primary/First Author**
@@ -67,7 +67,7 @@ Retrospective observational study analyzing pediatric mental health emergency de
 ## Key Findings
 
 ### Visit Trends
-- **Raw counts**: 44% increase post-pandemic vs pre-pandemic (22.9 → 33.1 mean monthly visits; IRR=1.44, 95% CI: 1.30-1.61, p<0.001)
+- **Raw counts**: 44% increase post-pandemic vs pre-pandemic (22.9 â 33.1 mean monthly visits; IRR=1.44, 95% CI: 1.30-1.61, p<0.001)
 - **Proportion analysis** (psychiatric visits as % of total ED volume):
   - Pre-pandemic: 2.0% of total ED visits
   - Pandemic: 3.0% (peak crisis period - 50% relative increase)
@@ -76,7 +76,7 @@ Retrospective observational study analyzing pediatric mental health emergency de
 
 ### Length of Stay
 - Mean LOS overall: 37.70 hours (SD 44.02)
-- Trend: 42 hrs (2018) → peak 45 hrs (2021) → 33 hrs (2023)
+- Trend: 42 hrs (2018) â peak 45 hrs (2021) â 33 hrs (2023)
 - **Statistically significant** decrease post-pandemic (ANOVA p<0.001)
 - No significance between pre-pandemic and pandemic cohorts (p=0.702)
 
@@ -85,13 +85,18 @@ Retrospective observational study analyzing pediatric mental health emergency de
   - Post-ED disposition across cohorts
   - 72-hour return visits
   - 30-day return visits
-- Disposition trend (descriptive): Admissions increased (12% → 17% → 20%), discharges remained stable (~63-65%)
+- Disposition trend (descriptive): Admissions increased (12% â 17% â 20%), discharges remained stable (~63-65%)
 
 ### Methodological Approach
 - **Primary analysis**: Interrupted time series with AR1 autocorrelation structure
 - **Proportion testing**: Chi-square tests (gold standard for proportions) showing significant increases
 - **Sensitivity analysis**: Poisson regression with ED volume offset confirming findings
 - **Restraint data**: Excluded due to inconsistent usage patterns
+
+## Activity Log
+
+- **2026-02-04:** COVID Pediatric Mental Health Trends - Next to-do: follow up with Maya to see if she needs any additional help.
+- **2026-02-02:** covid psych - testing GitHub sync
 
 ## Notes
 
