@@ -305,4 +305,5 @@ Despite faster ED times, the intervention did not demonstrate:
 
 ## Activity Log
 
+- **2026-02-04:** ED to PICU Tiered Admission Study - Emailed Beach to ask if the project is still moving forward and if there's anything Steve can do to help. Awaiting his response.
 - **2026-02-04:** ED to PICU Tiered Admission Study - To-do: email Beach Burns to see if this study is going to move forward.
