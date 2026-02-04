@@ -34,17 +34,20 @@ permalink: research/needs-assessment
 An IRB-approved three-phase needs assessment study to address research silos in the OHSU Emergency Medicine department. Using constructivist grounded theory methodology with UTAUT (Unified Theory of Acceptance and Use of Technology) framework integration to develop a collaborative research tool that better connects projects, personnel, and resources across the department. Primary aim is improving perceived research collaboration opportunities as reported by at least 50% of faculty and learners.
 
 ## Current Status
-**Phase 1 - Needs Assessment (Months 0-3):** Currently in data collection phase. Completed first focus group with Research Leadership on January 12, 2026 (9 participants), with comprehensive thematic analysis completed mid-January 2026 identifying 8 major themes. Planning 3-4 additional focus groups with Senior Faculty, Junior Faculty, and Trainees.
+**Phase 1 - Needs Assessment (Months 0-3):** Currently in active data collection phase. Completed 2 focus groups as of February 2026:
+1. Research Leadership focus group (January 12, 2026 - 9 participants) with comprehensive thematic analysis completed
+2. Junior Faculty focus group (completed January 2026)
+
+**Next Scheduled:** Leadership/Senior Faculty focus group on Thursday, February 5, 2026
 
 **Recruitment Status:**
-- Research Leadership: 7 individuals identified and focus group completed (1/12/26)
-- Junior Faculty: 7 individuals identified (Jordan Wackett, Haley Manella, Adrian Cois, Obert Xu, John Organick-Lee, Jack Marshall, Becky Raven)
-- Senior Faculty: Recruitment in progress
-- Trainees: Recruitment in progress
+- ✅ Research Leadership: Completed (1/12/26) - Brandon Maughan, Matt Hansen, Bory Kea, David Sheridan, Joshua Lupton, Jenny Cook, Denise, Nathan Bahr, Abby Dotson
+- ✅ Junior Faculty: Completed (January 2026)
+- 🔄 ED Leadership/Senior Faculty: In recruitment - Updated target list includes Mary, Beech, Mo, Jon Jui, Lainie, Rob Hendrickson, Dave Jones, Lauren Sigman/Bri Miller, and APDs (for student/residency leadership perspective per Jaime's suggestion)
+- 🔄 Trainees/Residents: Pending follow-up for focus group scheduling
 
-**Timeline:** All focus groups virtual-only format, 60-75 minutes each, using semi-structured interview protocol. When2Meet polls created for remaining stakeholder groups for availability collection. Planned completion of all focus groups by late January to early February 2026.
+**Mentor Participation:** Jaime Jordan will attend one additional focus group as observer only (not participant, to maintain study integrity per her guidance on 1/30/26)
 
-**Key Finding from Focus Group #1:** Research leaders identified an "engagement paradox" where potential collaborators need initiative to engage but require knowledge to take initiative. Evidence includes zero residents enrolling in research tracks for 2 years, zero residents attending research career session, and explicit "NO research" statements. Craig Newgard's recent departure (former research head with significant P&T committee influence) revealed gaps in systematic coordination infrastructure, with Matt Hansen now stepping into research leadership role during this transition period.
 ## Key Decisions
 - **August 2025**: Selected constructivist grounded theory methodology with UTAUT integration based on mentor (Jamie) recommendation for hybrid thematic approach that balances emergent discovery with framework-guided analysis
 - **August 2025**: Decided to use semi-structured interview protocol combining CGT core questions (opening, transition, key questions) with UTAUT integration questions (Performance Expectancy, Effort Expectancy, Social Influence, Facilitating Conditions)
@@ -62,18 +65,27 @@ An IRB-approved three-phase needs assessment study to address research silos in 
   - Stakeholder-specific pattern identification
   - Validation checking themes against raw data
 - **January 2026**: Created comprehensive analytical audit trail for methodological transparency and trustworthiness, documenting: initial reading impressions, open coding with analytical memos, focused coding categories, axial coding relationships, theoretical integration decisions, UTAUT mapping process, and quality assessment using Lincoln & Guba criteria (credibility, transferability, dependability, confirmability)
+- **January 30, 2026**: Expanded leadership focus group target list based on Jaime's feedback to include Dave Jones, Lauren Sigman/Bri Miller, and APDs for student/residency leadership perspective; Jaime will observe (not participate) in one additional focus group
+
 ## Action Items
-**Immediate Next Steps (Late January - February 2026):**
-- [ ] Schedule and conduct remaining 3 focus groups:
-  - [ ] Senior Faculty focus group (>5 years as faculty)
-  - [ ] Junior Faculty focus group (<5 years as faculty) - 7 individuals identified
-  - [ ] Trainees focus group (residents and medical students)
+**IMMEDIATE - This Week (Feb 2-6, 2026):**
+- [ ] **URGENT: Follow up with ED residents** about focus group participation and scheduling
+- [ ] **URGENT: Send ED leadership focus group invitation email** to:
+  - Mary, Beech, Mo, Jon Jui, Lainie, Rob Hendrickson
+  - Dave Jones, Lauren Sigman/Bri Miller  
+  - APDs (for student/residency leadership perspective)
+  - CC Jaime as observer
+- [ ] **Thursday, Feb 5**: Conduct scheduled leadership/senior faculty focus group
+- [ ] Prepare focus group materials and protocol review
+
+**Immediate Next Steps (February 2026):**
+- [ ] Complete resident/trainee focus group (pending scheduling follow-up)
 - [ ] Transcribe and de-identify all remaining focus group recordings
 - [ ] Conduct iterative thematic analysis for each subsequent focus group using same multi-layered approach
 - [ ] Write analytical memos after each focus group to track evolving understanding
 - [ ] Assess for theoretical saturation as data collection progresses
 
-**Cross-Group Analysis (February 2026):**
+**Cross-Group Analysis (Late February 2026):**
 - [ ] Perform comparative analysis across all four stakeholder groups
 - [ ] Identify convergent themes (shared across groups)
 - [ ] Identify divergent themes (group-specific perspectives)
@@ -90,6 +102,7 @@ An IRB-approved three-phase needs assessment study to address research silos in 
 - [ ] Synthesize findings into specific tool development requirements
 - [ ] Prioritize functionalities based on stakeholder needs and feasibility
 - [ ] Begin Phase 2 tool development planning
+
 ## Timeline
 - **August 2025**: IRB minimal risk protocol approved
 - **August 2025**: Research plan finalized with three-phase design
@@ -97,27 +110,23 @@ An IRB-approved three-phase needs assessment study to address research silos in 
 - **August 2025**: Developed focus group semi-structured interview guide with CGT core questions and UTAUT integration
 - **December 2025**: Created comprehensive focus group implementation plan and recruitment materials
 - **December 2025**: Built targeted recruitment lists for all four stakeholder groups
-  - Research Leadership: 7 individuals (Esther Choo, David Sheridan, Bory Kea, Brandon Maughan, Matthew Hansen, plus 2 others)
-  - Junior Faculty: 7 individuals (Jordan Wackett, Haley Manella, Adrian Cois, Obert Xu, John Organick-Lee, Jack Marshall, Becky Raven)
-  - Senior Faculty: List in development
-  - Trainees: List in development
 - **December 2025**: Set up When2Meet availability polls for four stakeholder groups using purposeful sampling approach
 - **December 2025**: Set focus group parameters: 5-7 participants per group, no incentives, virtual-only format, 60-75 minute duration
 - **December 17, 2025**: Prepared IRB-approved study overview for Research Leadership focus group participants
 - **January 12, 2026**: Conducted Focus Group #1 with Research Leadership (9 participants: Brandon Maughan, Matt Hansen, Bory Kea, David Sheridan, Joshua Lupton, Jenny Cook, Denise, Nathan Bahr, Abby Dotson)
 - **January 2026**: Completed comprehensive thematic analysis of Research Leadership focus group using multi-layered approach
-  - Initial inductive open coding identifying 150+ initial codes
-  - Focused coding grouping codes into 8 preliminary categories
-  - Axial coding mapping relationships between categories
-  - Theoretical integration synthesizing 8 major themes
-  - UTAUT framework mapping (deductive layer)
-  - Created detailed analytical audit trail documenting entire process
-- **January 2026**: Created comprehensive analytical documentation including coding decisions, memos, and quality assessment using Lincoln & Guba trustworthiness criteria
-- **Planned - Late January to February 2026**: Conduct remaining 3 focus groups (Senior Faculty, Junior Faculty, Trainees)
-- **Planned - February 2026**: Cross-group comparative thematic analysis and data saturation assessment
-- **Planned - February to March 2026**: Complete Phase 1 needs assessment report
+- **January 2026**: Conducted Focus Group #2 with Junior Faculty cohort
+- **January 30, 2026**: Received guidance from Jaime on expanded leadership focus group recruitment list and observer participation model
+- **February 5, 2026**: Scheduled Leadership/Senior Faculty focus group
+- **Planned - February 2026**: Complete resident/trainee focus group and cross-group comparative thematic analysis
+- **Planned - Late February to March 2026**: Complete Phase 1 needs assessment report
 - **Planned - Phase 2 (Months 3-7)**: Tool development and implementation based on Phase 1 findings
 - **Planned - Phase 3 (Months 7-10)**: Post-implementation evaluation, data analysis, and manuscript preparation
+
+## Activity Log
+
+- **2026-02-04:** Research Collaboration Needs Assessment - Focus group scheduled for tomorrow (Feb 5). Need to email out leaders to set up one more focus group. Awaiting feedback from residents to see if can schedule a resident-only focus group. → _Status: revision-requested_
+
 ## Notes
 
 ### Study Design & Methodology
@@ -133,10 +142,10 @@ An IRB-approved three-phase needs assessment study to address research silos in 
 
 **Study Population:**
 - Focus Groups: 24-32 participants across 4 groups (6-8 per group)
-- Group 1: Leadership/Research Leadership
-- Group 2: Senior Faculty (>5 years as faculty)
-- Group 3: Junior Faculty (<5 years as faculty)
-- Group 4: Trainees (residents and medical students)
+- Group 1: Leadership/Research Leadership ✅
+- Group 2: Junior Faculty (<5 years as faculty) ✅
+- Group 3: Senior/ED Leadership (>5 years as faculty) - Thursday 2/5/26
+- Group 4: Trainees (residents and medical students) - Pending
 - Pre/Post Surveys: All ~250 department members
 
 ### Research Leadership Focus Group - Detailed Thematic Findings
@@ -191,26 +200,6 @@ An IRB-approved three-phase needs assessment study to address research silos in 
 - **Social Influence**: MOST discussed construct - broad adoption necessity emphasized repeatedly ("has to be adopted broadly," "important that other people use it")
 - **Facilitating Conditions**: Need institutional support, leadership endorsement, champion users, integration with existing workflows
 
-**Structural Barriers:**
-1. **The Craig Newgard Vacuum**: Loss of central coordinating figure who served as knowledge broker, matchmaker, gatekeeper, and resource coordinator. His departure revealed coordination problem not yet solved by person or system.
-
-2. **Generator vs. Finder Identity**: Research leaders see themselves as opportunity creators rather than seekers, creating asymmetric information flow. Lack effective dissemination mechanisms for broadcasting opportunities.
-
-3. **Visibility Crisis**: Even research leaders lack comprehensive knowledge of ongoing projects. Jenny Cook (19 years institutional memory) noted this emerged with departmental growth over 10-15 years - what worked at small scale (organic networking) insufficient at current scale.
-
-4. **Departmental Growth & Evolution**: Department transitioned from small focused team where organic connections worked to large diverse portfolio requiring systematic infrastructure.
-
-**Human/Relational Factors:**
-5. **The Engagement Paradox**: Successful collaboration requires initiative, yet potential collaborators don't know where to start. Evidence: zero enrollment in research residency track for 2 years, zero residents attended research career session, explicit "NO research" statements.
-
-6. **Specificity Problem**: Research leaders need specific information from potential collaborators about interests, time commitment, skills to make good matches, but junior faculty/trainees often lack clarity to provide this.
-
-7. **Expectation Management**: Mismatched expectations about research commitment and follow-through creates frustration. Initiative and sustained engagement expected but not consistently demonstrated.
-
-8. **Communication & Dissemination Gap**: Current methods (email, website, word of mouth) inadequate for effective opportunity broadcasting and discovery.
-
-**Cross-Cutting Insight**: Leadership transition with Craig's departure and Matt Hansen stepping in provides natural inflection point - people already adapting to change, reducing resistance to new systematic approaches.
-
 ### Key Context
 
 **Institutional Setting**: OHSU Department of Emergency Medicine experiencing research in isolated silos creating: (1) missed academic advancement opportunities for junior faculty/residents/students, (2) inefficient matching of needs with expertise/resources, (3) duplicated efforts across teams.
@@ -220,6 +209,8 @@ An IRB-approved three-phase needs assessment study to address research silos in 
 **Institutional Memory**: Jenny Cook (19 years in department) provides crucial historical perspective on evolution from small focused group to large diverse research portfolio.
 
 **Study Constraints**: No participant incentives allowed, virtual-only format required, scheduling across academic calendars presents challenges.
+
+**Mentor Guidance (January 30, 2026)**: Jaime Jordan recommended study authors not participate as focus group members to maintain research integrity. She will join one additional focus group as observer to assist with data gathering and can provide input if critical gaps emerge in discussion. Suggested expanding leadership focus group to include Dave Jones, Lauren Sigman/Bri Miller, and APDs to capture student/residency leadership perspective.
 
 ### Secondary Aims
 
@@ -254,6 +245,7 @@ Created comprehensive analytical audit trail documenting complete coding journey
 - Member checking planned for Phase 3 to validate interpretations
 - Multiple data sources (9 participants with varying perspectives) enhance credibility
 - Thick description and detailed quotes support transferability assessment
+
 ### Related Documentation
 
 - Notion Database: https://www.notion.so/Database-Airtable-20ac14338eb6803f9015d96668b0fc29
