@@ -41,6 +41,11 @@ permalink: research/ai-survey
 
 ---
 
+## Activity Log
+
+- **2026-02-04:** AI Survey project - Met with medical student. Key updates: She created survey version 3. She identified possible local PIs at University of Michigan, University of Iowa, and Emory. Steve reached out to IRB specialists to identify the lift of doing a multi-institutional study. Next steps for student: build out survey in Qualtrics. To-dos for Steve: (1) follow up with IRB colleagues to identify how to set up a multi-institutional IRB process, (2) decide if we should do a local study versus multi-institutional, (3) reach out to colleague Tama at University of Kentucky to gauge his interest in being a local PI for this survey.
+- **2026-02-02:** AI survey - sent draft to co-authors for review
+
 ## Notes
 - Survey of AI knowledge/attitudes among clinicians
 
@@ -147,26 +152,26 @@ permalink: research/ai-survey
 Following Gehlbach & Artino "Survey Checklist Manifesto":
 
 **Item Formulation:**
-- ✓ Avoided agree/disagree response formats
-- ✓ Used construct-specific response options
-- ✓ One question at a time (no multi-barreled items)
-- ✓ Positive language throughout
-- ✓ No reverse-scored items
-- ✓ Item formats match research questions
+- â Avoided agree/disagree response formats
+- â Used construct-specific response options
+- â One question at a time (no multi-barreled items)
+- â Positive language throughout
+- â No reverse-scored items
+- â Item formats match research questions
 
 **Response Options:**
-- ✓ Appropriate number of options (4-7 for rating scales)
-- ✓ All response options labeled
-- ✓ Verbal labels only
-- ✓ Balanced visual, numeric, and conceptual midpoints
-- ✓ Single column format
+- â Appropriate number of options (4-7 for rating scales)
+- â All response options labeled
+- â Verbal labels only
+- â Balanced visual, numeric, and conceptual midpoints
+- â Single column format
 
 **Survey Organization:**
-- ✓ Important items placed early
-- ✓ Branching logic for relevant items only
-- ✓ Scales used for complex topics (SNAIL integration)
-- ✓ Consistent visual layout
-- ✓ Sensitive items (demographics) placed later
+- â Important items placed early
+- â Branching logic for relevant items only
+- â Scales used for complex topics (SNAIL integration)
+- â Consistent visual layout
+- â Sensitive items (demographics) placed later
 
 ### Current Development Status
 
