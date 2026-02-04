@@ -75,6 +75,10 @@ Successfully completed all editor-requested formatting changes and resubmitted J
 - **January 12, 2026**: All editor-requested revisions completed and resubmitted
 - **January 16, 2026**: ✅ **Status changed to "Under Review"** - entered peer review
 
+## Activity Log
+
+- **2026-02-04:** ASD Restraints Research Project - Correction: the "revision-requested" status was a test update and did not actually occur. The paper is currently submitted and awaiting feedback from the journal. Status should be under-review. → _Status: under-review_
+
 ## Notes
 
 ### Methodology Highlights
