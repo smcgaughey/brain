@@ -152,26 +152,26 @@ permalink: research/ai-survey
 Following Gehlbach & Artino "Survey Checklist Manifesto":
 
 **Item Formulation:**
-- â Avoided agree/disagree response formats
-- â Used construct-specific response options
-- â One question at a time (no multi-barreled items)
-- â Positive language throughout
-- â No reverse-scored items
-- â Item formats match research questions
+- Avoided agree/disagree response formats
+- Used construct-specific response options
+- One question at a time (no multi-barreled items)
+- Positive language throughout
+- No reverse-scored items
+- Item formats match research questions
 
 **Response Options:**
-- â Appropriate number of options (4-7 for rating scales)
-- â All response options labeled
-- â Verbal labels only
-- â Balanced visual, numeric, and conceptual midpoints
-- â Single column format
+- Appropriate number of options (4-7 for rating scales)
+- All response options labeled
+- Verbal labels only
+- Balanced visual, numeric, and conceptual midpoints
+- Single column format
 
 **Survey Organization:**
-- â Important items placed early
-- â Branching logic for relevant items only
-- â Scales used for complex topics (SNAIL integration)
-- â Consistent visual layout
-- â Sensitive items (demographics) placed later
+- Important items placed early
+- Branching logic for relevant items only
+- Scales used for complex topics (SNAIL integration)
+- Consistent visual layout
+- Sensitive items (demographics) placed later
 
 ### Current Development Status
 
