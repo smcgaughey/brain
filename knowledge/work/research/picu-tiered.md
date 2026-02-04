@@ -224,21 +224,21 @@ Implementation of tiered system would improve ED to PICU admission times for Tie
 ## Statistical Methods
 - **Continuous variables:** Mann-Whitney U tests and Independent-Samples Median Tests
 - **Categorical variables:** Chi-square tests with Yates continuity correction for 2x2 tables
-- **Significance level:** α=0.05
+- **Significance level:** Î±=0.05
 - **Software:** SPSS (version not specified)
 
 ## Key Findings Summary
 
 ### Supported Hypotheses
-1. ✓ **Tier 1 ED LOS reduction:** Significant decrease (median 22 minutes, p=0.002)
-2. ✓ **Tier 1 bed request to departure reduction:** Significant decrease (median 12 minutes, p=0.017)
+1. â **Tier 1 ED LOS reduction:** Significant decrease (median 22 minutes, p=0.002)
+2. â **Tier 1 bed request to departure reduction:** Significant decrease (median 12 minutes, p=0.017)
 
 ### Unsupported Hypotheses
-1. ✗ **Tier 1 PICU LOS reduction:** No significant change (p=0.377)
-2. ✗ **Tier 1 vasoactive hours reduction:** No significant change (p=0.983)
-3. ✗ **Tier 1 mortality reduction:** No significant change (p=0.640 for 30-day mortality)
-4. ✗ **Tier 2 time worsening:** No significant change in ED LOS (p=0.100) or bed request time (p=0.102)
-5. ✗ **Tier 2 outcome worsening:** No significant changes in any outcomes
+1. â **Tier 1 PICU LOS reduction:** No significant change (p=0.377)
+2. â **Tier 1 vasoactive hours reduction:** No significant change (p=0.983)
+3. â **Tier 1 mortality reduction:** No significant change (p=0.640 for 30-day mortality)
+4. â **Tier 2 time worsening:** No significant change in ED LOS (p=0.100) or bed request time (p=0.102)
+5. â **Tier 2 outcome worsening:** No significant changes in any outcomes
 
 ## Clinical Significance
 
@@ -302,3 +302,7 @@ Despite faster ED times, the intervention did not demonstrate:
 **Manuscript Status:** Not yet written  
 **Data Quality:** High completeness except vasoactive hours  
 **Statistical Analysis:** Complete with appropriate tests
+
+## Activity Log
+
+- **2026-02-04:** ED to PICU Tiered Admission Study - To-do: email Beach Burns to see if this study is going to move forward.
