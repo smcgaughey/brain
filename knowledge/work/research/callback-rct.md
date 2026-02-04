@@ -24,20 +24,20 @@ permalink: research/callback-rct
 | Manuscript Title | The Impact of a Physician Callback Program on Return Visit Rates Among Patients Discharged from the Emergency Department, a Pragmatic Randomized Controlled Trial |
 | MS# | Not yet submitted |
 | Submitted | Pending figures/tables revision |
-| Decision | — |
+| Decision | â |
 | **Manuscript Completeness** | **Est. 85% complete** |
 
 ### Manuscript Sections Status
-- ✅ Abstract: Complete (structured format with hypothesis, methods, results, conclusions)
-- ✅ Introduction: Complete (~500 words, structured with Background/Importance/Goals)
-- ✅ Methods: Complete (study design, setting, participants, intervention, measurements, outcomes, statistical analysis)
-- ✅ Results: Complete (baseline characteristics, ITT analysis, as-treated analysis, predictors)
-- ✅ Discussion: Complete (contextualization, implications, comparison to literature)
-- ✅ Limitations: Complete (identified and discussed)
-- ✅ Conclusion: Complete (evidence-based, limited to findings)
-- ✅ References: Complete (15 references, formatted)
-- ❌ **Figures**: CRITICAL GAP - Zero figures present (need 2-3 minimum)
-- ⚠️ **Tables**: Need consolidation (7 tables → 3-4 tables)
+- â Abstract: Complete (structured format with hypothesis, methods, results, conclusions)
+- â Introduction: Complete (~500 words, structured with Background/Importance/Goals)
+- â Methods: Complete (study design, setting, participants, intervention, measurements, outcomes, statistical analysis)
+- â Results: Complete (baseline characteristics, ITT analysis, as-treated analysis, predictors)
+- â Discussion: Complete (contextualization, implications, comparison to literature)
+- â Limitations: Complete (identified and discussed)
+- â Conclusion: Complete (evidence-based, limited to findings)
+- â References: Complete (15 references, formatted)
+- â **Figures**: CRITICAL GAP - Zero figures present (need 2-3 minimum)
+- â ï¸ **Tables**: Need consolidation (7 tables â 3-4 tables)
 ## Co-Authors
 
 - Jack Marshall, MD MBA (Lead author) - OHSU Department of Emergency Medicine
@@ -56,12 +56,12 @@ Pragmatic randomized controlled trial evaluating whether a physician callback pr
 **As of January 25, 2026:** Manuscript draft complete with full results and discussion sections. Currently in **figures and tables revision phase** based on comprehensive review.
 
 **Critical path to submission:**
-1. ✅ Manuscript draft completed
-2. ✅ Comprehensive figures/tables review conducted
-3. ⏳ CONSORT diagram creation (CRITICAL - required for RCT)
-4. ⏳ Primary outcomes visualization with confidence intervals
-5. ⏳ Table consolidation (reduce from 7 to 3-4 tables)
-6. ⏳ Final submission preparation
+1. â Manuscript draft completed
+2. â Comprehensive figures/tables review conducted
+3. â³ CONSORT diagram creation (CRITICAL - required for RCT)
+4. â³ Primary outcomes visualization with confidence intervals
+5. â³ Table consolidation (reduce from 7 to 3-4 tables)
+6. â³ Final submission preparation
 
 **Manuscript Status:** 
 - Full draft written with Introduction, Methods, Results (ITT and as-treated analyses), Discussion
@@ -89,7 +89,7 @@ Pragmatic randomized controlled trial evaluating whether a physician callback pr
 ## Action Items
 ### Critical (Must Have - Cannot Publish Without)
 - [ ] **CREATE CONSORT FLOW DIAGRAM** (required by Annals for RCTs)
-  - Show: Total ED visits (6,934) → Eligible (3,435) → Randomized → Analyzed
+  - Show: Total ED visits (6,934) â Eligible (3,435) â Randomized â Analyzed
   - Account for exclusions at each step (21 not called, 4 excluded post-randomization)
   - Standard CONSORT format with intervention/control parallel arms
 
@@ -125,7 +125,7 @@ Pragmatic randomized controlled trial evaluating whether a physician callback pr
   - 6,934 total ED visits during study period
   - 3,435 patients randomized (1,730 intervention, 1,705 control)
 - **Apr 2025**: Preliminary analysis for SAEM
-- **May 2025**: SAEM 2025 presentation (Morgan Black presenter) ✅
+- **May 2025**: SAEM 2025 presentation (Morgan Black presenter) â
 - **Jun 2025**: Steve McGaughey began reviewing results section
 - **Jul 2025**: Results section reorganized; ITT vs as-treated structure implemented
 - **Aug 2025**: Miriam targeting completion of secondary analysis
@@ -134,6 +134,11 @@ Pragmatic randomized controlled trial evaluating whether a physician callback pr
   - Identified critical gaps (CONSORT diagram, primary figures)
   - Developed table consolidation strategy
   - Ready for visualization phase
+## Activity Log
+
+- **2026-02-04:** ED Callback RCT - Currently blocked. Waiting for Jack (departmental statistician) to complete statistical analysis. Once analysis is back, will restart the writing process. No action needed from Steve at this time.
+- **2026-02-02:** AI survey - completed IRB submission
+
 ## Notes
 
 ### Key Findings
@@ -153,7 +158,7 @@ Pragmatic randomized controlled trial evaluating whether a physician callback pr
 - Adjusted OR: 0.84 (95% CI: 0.61-1.15, p=0.288)
 
 **Strongest Predictors of ED Return:**
-- High ED utilization (≥4 visits/12mo): aOR 2.88 (p<0.001)
+- High ED utilization (â¥4 visits/12mo): aOR 2.88 (p<0.001)
 - Mental health diagnosis: aOR 1.44 (p=0.015)
 - Homelessness: aOR 1.78 (p=0.043)
 - African American/Black race: aOR 1.59 (p=0.043) - potential disparity
@@ -179,7 +184,7 @@ Per Schriger & Cooper guidelines and Annals structured format:
 - CONSORT diagram mandatory for RCT
 - Emphasize effect size over p-values
 - Maximum data density with clean design
-- Abstract ≤250 words with specific subheadings
+- Abstract â¤250 words with specific subheadings
 - Introduction <500 words
 
 ### IRB Status
@@ -200,7 +205,7 @@ Per Schriger & Cooper guidelines and Annals structured format:
 - CONSORT diagram mandatory for RCT
 - Emphasize effect size over p-values
 - Maximum data density with clean design
-- Abstract ≤250 words with specific subheadings
+- Abstract â¤250 words with specific subheadings
 - Introduction <500 words
 
 ### Figures & Tables Review (January 2026)
@@ -211,14 +216,14 @@ Per Schriger & Cooper guidelines and Annals structured format:
 - **Status**: Methodologically sound but presentation-limited
 
 **Table Assessment:**
-- ✅ Table 1 (Baseline Characteristics): Well-organized, good use of SMD, comprehensive
-- ⚠️ Tables 2-3: Redundant information, should be combined
-- ⚠️ Tables 5-7: Need streamlining or move to supplementary material
+- â Table 1 (Baseline Characteristics): Well-organized, good use of SMD, comprehensive
+- â ï¸ Tables 2-3: Redundant information, should be combined
+- â ï¸ Tables 5-7: Need streamlining or move to supplementary material
 
 **Critical Missing Figures:**
 1. **CONSORT Flow Diagram** (Priority: CRITICAL)
    - Required for RCT publication in Annals
-   - Must show: Total screened → Eligible → Randomized → Analyzed
+   - Must show: Total screened â Eligible â Randomized â Analyzed
    - Must account for all exclusions
    
 2. **Primary Outcomes Visualization** (Priority: HIGH)
@@ -257,7 +262,7 @@ Per Schriger & Cooper guidelines and Annals structured format:
 - Large sample size (n=3,435)
 - Both ITT and as-treated analyses
 - Inclusive of non-English speakers (except sign language)
-- 1:1 randomization with balanced baseline characteristics (SMD ≤0.12 except race)
+- 1:1 randomization with balanced baseline characteristics (SMD â¤0.12 except race)
 
 ### Study Details
 
@@ -331,7 +336,7 @@ Per Schriger & Cooper guidelines and Annals structured format:
 **Clinical Characteristics:**
 - Median Emergency Severity Index: 3.0 (IQR: 3.0-3.0)
 - Arrival by ambulance: 21.8% (750/3,435)
-- High ED utilizer (≥4 visits/12mo): 11.6% (399/3,435)
+- High ED utilizer (â¥4 visits/12mo): 11.6% (399/3,435)
 - Mental health diagnosis: 39.8% (1,367/3,435)
 - Substance use diagnosis: 19.0% (652/3,435)
 - Median ED length of stay: 4.8 hours (IQR: 3.2-6.8)
