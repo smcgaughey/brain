@@ -131,3 +131,7 @@ Large cohort study examining the impact of emergency department (ED) pediatric r
 - National pediatric readiness assessment data available from EMS for Children Data Center at University of Utah
 
 ---
+
+## Activity Log
+
+- **2026-02-04:** JAMA Pediatrics ED Readiness Study - Steve has given his feedback. Nothing more to do. Waiting for Craig (primary author) to send final draft for authors to sign off, then Craig will handle submission. Blocked - awaiting final draft from Craig. → _Status: revision-requested_
