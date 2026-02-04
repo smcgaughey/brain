@@ -28,7 +28,7 @@ permalink: research/ai-survey
 ---
 
 ## Current Status
-- IRB approved
+- needs IRB approval, currently trying for IRB exempt status
 - Ready for data collection
 
 ---
