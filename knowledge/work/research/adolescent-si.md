@@ -132,6 +132,7 @@ Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to
 **Project Duration:** 38 days from IRB approval to submission (December 22, 2025 - January 29, 2026) - Exceptionally rapid turnaround demonstrating productivity
 ## Activity Log
 
+- **2026-02-05:** asd-prescribing - REJECTED from Academic Pediatrics. Pivoting to Clinical Pediatrics (Brief Report). Need to cut from ~1917 to 1500 words, abstract from 248 to 200 words, reduce to 1-2 figures/tables, max 6 authors, ~15 references. → _Status: revision-requested_
 - **2026-02-03:** adolescent SI - test update via CLI
 - **2026-02-02:** Adolescent SI project assigned manuscript number ACADEMICPEDS-D-26-00081 at Academic Pediatrics
 - **2026-02-02:** Adolescent SI project has been assigned manuscript number ACADEMICPEDS-D-26-00081
