@@ -43,6 +43,7 @@ permalink: research/ai-survey
 
 ## Activity Log
 
+- **2026-02-06:** ai-survey - Reached out to IRB about multi-institutional approach. Planning to submit as exempt from research under QI lens since no identifiable information will be collected. Hoping this allows data collection from other institutions without lengthy multi-site IRB review. Still need to: decide final local vs multi-site approach, reach out to Tama at UKY.
 - **2026-02-04:** AI Survey project - Met with medical student. Key updates: She created survey version 3. She identified possible local PIs at University of Michigan, University of Iowa, and Emory. Steve reached out to IRB specialists to identify the lift of doing a multi-institutional study. Next steps for student: build out survey in Qualtrics. To-dos for Steve: (1) follow up with IRB colleagues to identify how to set up a multi-institutional IRB process, (2) decide if we should do a local study versus multi-institutional, (3) reach out to colleague Tama at University of Kentucky to gauge his interest in being a local PI for this survey.
 - **2026-02-02:** AI survey - sent draft to co-authors for review
 
