@@ -132,6 +132,7 @@ Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to
 **Project Duration:** 38 days from IRB approval to submission (December 22, 2025 - January 29, 2026) - Exceptionally rapid turnaround demonstrating productivity
 ## Activity Log
 
+- **2026-02-06:** PCP prescribing paper - submitted to Clinical Pediatrics on Feb 6, 2026. Manuscript ID: CLP-BR-26-081. Title: "Primary Care Psychiatric Prescribing for Adolescents with Suicidal Ideation". Brief Report format. After desk rejection from Academic Pediatrics, reformatted and submitted to Clinical Pediatrics. Final data cleaning resolved missing prescriber data (unknown dropped from 8.2% to 3.6%), reclassified 1 unknown gender as gender diverse. Updated stats: PCP prescribing 59.1% (65/110), psychiatrist 30.9% (34/110). Study dates confirmed Dec 2021-June 2025. 9.2% disengaged statistic verified. Mark todo for submission as DONE.
 - **2026-02-05:** asd-prescribing - REJECTED from Academic Pediatrics. Pivoting to Clinical Pediatrics (Brief Report). Need to cut from ~1917 to 1500 words, abstract from 248 to 200 words, reduce to 1-2 figures/tables, max 6 authors, ~15 references. → _Status: revision-requested_
 - **2026-02-03:** adolescent SI - test update via CLI
 - **2026-02-02:** Adolescent SI project assigned manuscript number ACADEMICPEDS-D-26-00081 at Academic Pediatrics
