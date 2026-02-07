@@ -1,6 +1,6 @@
 # Naomi's Summer Camp Options 2026
 
-**Child:** Naomi (age 5)
+**Child:** Naomi (age 6 by summer 2026)
 **Location:** Portland, OR
 **Purpose:** Feed into Claude project for comprehensive camp schedule
 
@@ -20,7 +20,7 @@
 
 ### Schedule
 - **Hours:** 9:00 AM – 3:00 PM (Mon–Fri)
-- **Extended hours available:** 8:00 AM – 6:00 PM (verify aftercare availability for age 5)
+- **Extended hours available:** 8:00 AM – 6:00 PM (verify aftercare availability)
 - **Sessions:** 10 one-week sessions, June 15 – August 21, 2026
   - June 15–19
   - June 22–26
@@ -55,19 +55,19 @@ Days rotate between adventure and creative activities — designed for developme
 
 ---
 
-## 2. Camp Howard — Overnight Camp ⚠️ AGE LIMITATIONS
+## 2. Camp Howard — Overnight Camp ✅ AGE-ELIGIBLE (at age 6)
 
 **Type:** Sleep-away / overnight camp (faith-based, inclusive)
 **Website:** [cyocamphoward.org](https://www.cyocamphoward.org/home)
 **Location:** 11010 SE Camp Howard Road, Corbett, OR 97019 (35 miles east of Portland)
 
 ### Age & Eligibility
-- **Regular overnight camp:** Ages 6–14 — **Naomi is too young at 5**
-- **Family Camp:** Ages 5–12 (children under 5 free) — **Naomi qualifies WITH parent**
-- **Mini Camp:** Available for younger/newer campers (details TBD)
+- **Regular overnight camp:** Ages 6–14 — **Naomi qualifies at age 6**
+- **Family Camp:** Ages 5–12 (children under 5 free) — also an option
+- **Mini Camp:** Available for younger/newer campers (could be a good first-time option)
 
 ### Key Context
-- **Nika (Naomi's best friend's friend) is considering this camp**
+- **Nika (Naomi's best friend's friend) is considering this camp** — coordinate timing
 - Operated by CYO (Catholic Youth Organization) — faith-based but welcomes all backgrounds, no religious affiliation required
 - Founded 1952, 245 wooded acres, cabins and yurts with electricity
 
@@ -82,7 +82,7 @@ Swimming, archery, arts & crafts, hiking, canoeing, low ropes course, giant swin
 
 ### Pricing (2025 reference — 2026 TBD)
 - **Week-long overnight:** $375–$525 per participant
-- **Family Camp youth (5–12):** $150 per youth
+- **Family Camp youth (5–12):** $150/youth
 - **Under 5:** Free
 - **Financial aid available** — sliding scale, many partner schools bring cost to $200–$300
 
@@ -92,9 +92,9 @@ Swimming, archery, arts & crafts, hiking, canoeing, low ropes course, giant swin
 - **Office:** 847 NE 19th Avenue, Suite 385, Portland, OR 97232
 
 ### Notes
-- For 2026 when Naomi is 5: **Family Camp** is the viable option (requires parent attendance).
-- Regular overnight camp opens up at age 6 (summer 2027 if she turns 6 by then).
-- Worth coordinating with Nika's family on timing.
+- At age 6, Naomi is eligible for regular overnight camp — though Mini Camp might be a gentler first-time sleepaway experience.
+- Coordinate with Nika's family on session timing.
+- Could also do Family Camp as a warm-up weekend before a solo session.
 
 ---
 
@@ -105,9 +105,9 @@ Swimming, archery, arts & crafts, hiking, canoeing, low ropes course, giant swin
 **Location:** Lewis & Clark College, 0615 SW Palatine Hill Rd, Portland, OR 97219
 
 ### Age & Eligibility
-- **Minimum age: 7 years old** — **Naomi cannot attend at age 5**
+- **Minimum age: 7 years old** — **Naomi cannot attend at age 6**
 - Programs designed for ages 7–17
-- Earliest eligibility: Summer 2028 (when she's ~7)
+- Earliest eligibility: Summer 2027 (when she turns 7)
 
 ### Program Window (2026)
 - June 16 – August 8, 2026 (week-long sessions)
@@ -141,9 +141,9 @@ Swimming, archery, arts & crafts, hiking, canoeing, low ropes course, giant swin
 - **Phone:** (888) 709-8324
 
 ### Notes
-- **Not viable for 2026** due to age requirement.
-- Worth bookmarking for age 7+. Very immersive but expensive (~$950+/week for day camp).
-- Could be a great option in 2–3 years.
+- **Not viable for 2026** due to age requirement (still 1 year short).
+- Earliest eligibility: summer 2027.
+- Worth bookmarking — very immersive but expensive (~$950+/week for day camp).
 
 ---
 
@@ -152,11 +152,12 @@ Swimming, archery, arts & crafts, hiking, canoeing, low ropes course, giant swin
 | Camp | Type | Age OK? | Cost Range | Best For |
 |------|------|---------|------------|----------|
 | **Avid 4 Adventure** | Day camp | ✅ Yes (K–1st) | ~TBD + $25 reg | Outdoor adventure, active play |
-| **Camp Howard** | Overnight | ⚠️ Family Camp only | $150/youth (family) | Sleepaway intro WITH parent |
+| **Camp Howard** | Overnight | ✅ Yes (age 6+) | $375–$525/week | Sleepaway with Nika, nature |
 | **iD Tech** | Day/Overnight | 🚫 No (min age 7) | $949+/week | Future option for coding/tech |
 
 ### Action Items
 - [ ] Check Avid 4 pricing on registration portal (early deadline Feb 28)
-- [ ] Contact Camp Howard for 2026 Family Camp dates once released
+- [ ] Contact Camp Howard for 2026 session dates once released
 - [ ] Coordinate with Nika's family on Camp Howard timing
-- [ ] Bookmark iD Tech for summer 2028+ when Naomi turns 7
+- [ ] Consider Camp Howard Mini Camp or Family Camp as sleepaway warm-up
+- [ ] Bookmark iD Tech for summer 2027 when Naomi turns 7
