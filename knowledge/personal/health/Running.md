@@ -29,6 +29,32 @@ tags:
 ## Lactate Threshold
 - **LTHR: 168 bpm** (established June 5, 2025 — 26-min treadmill effort at 7:30/mile)
 - All zones derived from this LTHR value
+- **Status: NEEDS RETEST** — Last tested 8 months ago, pre-injury. Fitness has changed significantly.
+
+## Lactate Threshold Test Protocol (Joe Friel 30-Minute Test)
+**Prerequisites:**
+- 2 easy days or rest before test
+- Well-hydrated, well-rested
+- Not post-night shift or feeling off
+
+**Treadmill Setup:**
+- 1% incline (simulates outdoor effort)
+- No fan or minimal fan
+- Starting pace: 8:00/mile (7.5 mph) — adjust based on current fitness
+
+**Execution:**
+1. Warm-up: 10-15 min building from 5.5 → 6.5 mph, include a few 20-sec pickups
+2. Start 30-minute clock at target pace (start at 7.5 mph / 8:00/mile)
+3. Minutes 1-6: Assess effort — adjust pace up/down by 0.1-0.2 mph if needed
+4. **Minute 10: Hit lap button on Coros** to start clean recording
+5. Minutes 10-30: Lock in and hold max sustainable effort
+6. **Average HR from last 20 minutes (lap 2) = new LTHR**
+7. Cool down: 10 min easy jogging
+
+**After Test:**
+- Recalculate all 5 HR zones from new LTHR
+- Update pace zones accordingly
+- Update this document
 
 ## Heart Rate Zones (LTHR-Based)
 - Zone 1 (Recovery): < 139 bpm (<83% LTHR) — Easy runs, warm-up/cool-down
@@ -43,6 +69,7 @@ tags:
 - Zone 3 (Threshold): 8:15-8:35/mile — Lactate threshold, race pace
 - Zone 4 (VO2): 7:45-8:10/mile — Hard intervals, neuromuscular power
 - Zone 5 (Neuromuscular): Sub-7:45/mile — All-out sprints
+- **Note: Pace zones are from peak HTC fitness (June 2025). Will need updating after LTHR retest.**
 
 ## Practical Training Guidelines
 - Easy runs: Stay below 155 bpm (Zone 1-2)
