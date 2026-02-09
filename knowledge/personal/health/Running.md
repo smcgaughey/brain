@@ -8,6 +8,7 @@ tags:
 - goals
 - heart-rate
 - injury-prevention
+- lactate-threshold
 ---
 
 # Steve's Running Goals & Training Philosophy
@@ -19,23 +20,36 @@ tags:
 4. **Speed development** - secondary priority, comes later
 
 ## Training Philosophy
-- Following "Happy Runner" approach
-- Low HR base building (Zone 2: 116-145 bpm)
-- Intermittent high HR intervals (Zone 3-4: 145-174 bpm)
-- 80-90% of runs should be Zone 2
+- Following David Roche "Happy Runner" approach
+- 80/20 polarized training (80% easy, 20% hard)
+- Low HR base building (Zone 1-2)
+- Avoid "grey zone" moderate efforts
 - One hard workout per week maximum during base building
 
-## Heart Rate Zones
-- Zone 1 (Recovery): 0-116 bpm
-- Zone 2 (Aerobic Base): **116-145 bpm** ← PRIMARY TRAINING ZONE
-- Zone 3 (Tempo): 145-159 bpm
-- Zone 4 (Threshold): 159-174 bpm
-- Zone 5 (Max): 174+ bpm
+## Lactate Threshold
+- **LTHR: 168 bpm** (established June 5, 2025 — 26-min treadmill effort at 7:30/mile)
+- All zones derived from this LTHR value
 
-## Target Zone 2 Pace
-- Estimated: 7:00-7:30/km (11:15-12:00/mile)
-- Effort: Conversational, "could run forever" feeling
-- Should feel almost embarrassingly slow
+## Heart Rate Zones (LTHR-Based)
+- Zone 1 (Recovery): < 139 bpm (<83% LTHR) — Easy runs, warm-up/cool-down
+- Zone 2 (Aerobic Base): **139-155 bpm (83-92% LTHR)** — PRIMARY TRAINING ZONE
+- Zone 3 (Tempo): 156-163 bpm (93-97% LTHR) — Race pace sustainability
+- Zone 4 (Threshold): 164-172 bpm (98-102% LTHR) — Lactate threshold work
+- Zone 5 (VO2max): 173+ bpm (103%+ LTHR) — Hard intervals, neuromuscular
+
+## David Roche Pace Zones (Aligned to HR)
+- Zone 1 (Easy): 9:15-9:45/mile — Conversational, aerobic base
+- Zone 2 (Moderate): 8:45-9:10/mile — Comfortably hard, sustainable
+- Zone 3 (Threshold): 8:15-8:35/mile — Lactate threshold, race pace
+- Zone 4 (VO2): 7:45-8:10/mile — Hard intervals, neuromuscular power
+- Zone 5 (Neuromuscular): Sub-7:45/mile — All-out sprints
+
+## Practical Training Guidelines
+- Easy runs: Stay below 155 bpm (Zone 1-2)
+- If HR creeps above 155 on easy days, slow down or walk hills
+- Tempo/race pace work: 156-163 bpm (Zone 3)
+- Threshold intervals: 164-172 bpm (Zone 4)
+- Speed work: 173+ bpm (Zone 5) — sparingly
 
 ## Injury History & Considerations
 - **2025 Hood to Coast**: Ran with right hip/groin pain in 95-100°F heat
@@ -53,15 +67,14 @@ tags:
 - Help stay aligned with base-building goals
 - Flag when running too hard
 
-## Current Status (January 2026)
+## Current Status (February 2026)
 - Running 2-3x per week
-- Recent runs averaging Zone 3-4 (too hard for base building)
-- Need to slow down significantly to stay in Zone 2
-- Recently sick (elevated HR expected)
+- Rebuilding post-HTC with focus on base building
 - Using Nike Vomero 18 shoes
+- Coros Pace 3 HR monitor watch
 
 ## Recommended Weekly Structure
-- 3-4 runs/week in Zone 2 (easy, conversational)
+- 3-4 runs/week in Zone 1-2 (easy, conversational, < 155 bpm)
 - 1 interval/tempo session with Zone 3-4 efforts
-- 1 optional Zone 1-2 recovery run
-- Watch HR religiously - slow down if it creeps above 145 bpm
+- 1 optional Zone 1 recovery run
+- Watch HR religiously - slow down if it creeps above 155 bpm on easy days
