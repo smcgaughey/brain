@@ -77,6 +77,7 @@ Successfully completed all editor-requested formatting changes and resubmitted J
 
 ## Activity Log
 
+- **2026-02-09:** ASD prescribing - resubmitted to Clinical Pediatrics on Feb 9 after addressing editorial requests (added educational objectives, completed authorship form). Received confirmation of editorial review. Manuscript ID: CLP-BR-26-081. Expected timeline: 3-6 weeks for reviewer assignment, then additional 3-6 weeks for decision. Estimated first decision: April-May 2026.
 - **2026-02-04:** ASD Restraints Research Project - Correction: the "revision-requested" status was a test update and did not actually occur. The paper is currently submitted and awaiting feedback from the journal. Status should be under-review. → _Status: under-review_
 
 ## Notes
