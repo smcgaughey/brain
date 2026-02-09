@@ -125,6 +125,7 @@ An IRB-approved three-phase needs assessment study to address research silos in 
 
 ## Activity Log
 
+- **2026-02-09:** Needs Assessment - Emailed leadership faculty for focus group: Dr. Lainie Yarris (chair of education division, professor), Dr. Beech Burns (vice chair), Dr. David Jones (PD of residency), and Mary (chair). Working on finding a date to meet. → _Status: in-preparation_
 - **2026-02-04:** Research Collaboration Needs Assessment - Focus group scheduled for tomorrow (Feb 5). Need to email out leaders to set up one more focus group. Awaiting feedback from residents to see if can schedule a resident-only focus group. → _Status: revision-requested_
 
 ## Notes
