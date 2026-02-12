@@ -11,10 +11,7 @@ Documents requested by CPA. Track upload status below.
 - [ ] OHSU W-2 — Elizabeth Silbermann (OR) — **Ask Elizabeth**
 
 ### Brokerage Statements
-- [ ] Charles Schwab — Acct XXXX7198 (not listed on 1099 dashboard)
-- [ ] Charles Schwab — Acct XXXX8256 (Living Trust ...256) — **PENDING, expected 02/27/2026**
-- [ ] Charles Schwab — Acct XXXX9011 (Living Trust ...011) — **PENDING, expected 02/27/2026**
-- [ ] Charles Schwab — Custodial Brokerage ...298 — **PENDING, expected 02/13/2026**
+- [~] Charles Schwab — Combined 1099 covering all accounts (XXXX7198, XXXX8256 Living Trust, XXXX9011 Living Trust, Custodial Brokerage XXXX298) (**Downloaded 02/11/2026, not yet uploaded to CPA**)
 - [ ] Acorns Securities — Acct 23B1 (Steven McGaughey) — **1099-DIV/B expected 02/15/2026**
 
 ### Real Estate Information
@@ -25,7 +22,8 @@ Documents requested by CPA. Track upload status below.
 ## Notes
 - Document request received from CPA on Feb 2026
 - HSA docs — N/A, none needed
-- Schwab 1099s not yet available — earliest expected 02/13/2026 (Custodial Brokerage), others 02/27/2026
+- Schwab combined 1099 received 02/11/2026, covers all 4 accounts
 - Acorns 1099-DIV/B expected 02/15/2026
 - OHSU W-2 downloaded but needs to be uploaded to CPA portal
 - JPMorgan 1098 downloaded but needs to be uploaded to CPA portal
+- Schwab 1099 downloaded but needs to be uploaded to CPA portal
