@@ -43,6 +43,7 @@ permalink: research/ai-survey
 
 ## Activity Log
 
+- **2026-02-12:** general todo - email Jaime Jordan to get Dr. Kushal Shah's email at Cornell. Purpose: discuss AI use in medical education and float AI survey project collaboration at Cornell
 - **2026-02-12:** AI survey project - add todo: submit IRB exemption for AI survey project
 - **2026-02-10:** AI Knowledge Survey Study - TODO: Fill out IRB determination form to pursue IRB exemption. This is the next actionable step before the project can move forward.
 - **2026-02-06:** ai-survey - Decision made: submitting as exempt study (QI, no identifiable data). Tama outreach at UKY is on hold until IRB status is clarified. Next step: await IRB response on exempt determination.
