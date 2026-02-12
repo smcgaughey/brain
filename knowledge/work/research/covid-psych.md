@@ -95,6 +95,7 @@ Retrospective observational study analyzing pediatric mental health emergency de
 
 ## Activity Log
 
+- **2026-02-12:** ED Non-Research Projects - add to-do: Create overarching theme, color scheme, and process for developing flowcharts or ED pathways in Figma. (Move this from COVID Pediatric Mental Health Trends - it's a general ED project task, not specific to the manuscript.)
 - **2026-02-12:** Pediatric Mental Health Manuscript - add to-do: Create overarching theme, color scheme, and process for developing flowcharts or ED pathways in Figma
 - **2026-02-12:** covid-mental-health - Maya just delivered the first draft of the paper. Steve needs to review the draft and send back edits. No longer blocked.
 - **2026-02-04:** COVID Pediatric Mental Health Trends - Emailed Maya to see if there's anything Steve can do to move the project forward. Awaiting her response.
