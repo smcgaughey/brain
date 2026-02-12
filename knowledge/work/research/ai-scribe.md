@@ -186,6 +186,7 @@ The manuscript explicitly acknowledges:
 
 ## Activity Log
 
+- **2026-02-12:** general todo - speak to Jeff Gold about AI scribe papers in the future
 - **2026-02-04:** AI Scribe Verbal Anchoring Paper - Jordan submitted to JAIMA Journal as a Perspective on January 31, 2026. Currently blocked awaiting journal determination. No action needed from Steve. → _Status: under-review_
 - **2026-02-03:** CC billing project - Finalized secondary aims as purely descriptive (abandoned intervention approach). Four aims: (1) temporal pattern analysis using SPC, (2) quantify provider-level variation, (3) describe patient characteristics, (4) describe patterns across hospital types for benchmarking WITHOUT formal statistical comparison. Craig cautioned against comparing OHSU vs community hospitals due to unmeasured confounding. Charlson will describe populations, not adjust comparisons. Updated data dictionary and project summary with final aims. Already emailed Rochelle Fu for statistical consultation.
 
