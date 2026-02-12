@@ -95,6 +95,7 @@ Retrospective observational study analyzing pediatric mental health emergency de
 
 ## Activity Log
 
+- **2026-02-12:** covid-mental-health - Maya just delivered the first draft of the paper. Steve needs to review the draft and send back edits. No longer blocked.
 - **2026-02-04:** COVID Pediatric Mental Health Trends - Emailed Maya to see if there's anything Steve can do to move the project forward. Awaiting her response.
 - **2026-02-04:** COVID Pediatric Mental Health Trends - Next to-do: follow up with Maya to see if she needs any additional help.
 - **2026-02-02:** covid psych - testing GitHub sync
