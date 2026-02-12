@@ -43,6 +43,7 @@ permalink: research/ai-survey
 
 ## Activity Log
 
+- **2026-02-12:** AI survey project - add todo: submit IRB exemption for AI survey project
 - **2026-02-10:** AI Knowledge Survey Study - TODO: Fill out IRB determination form to pursue IRB exemption. This is the next actionable step before the project can move forward.
 - **2026-02-06:** ai-survey - Decision made: submitting as exempt study (QI, no identifiable data). Tama outreach at UKY is on hold until IRB status is clarified. Next step: await IRB response on exempt determination.
 - **2026-02-06:** ai-survey - Reached out to IRB about multi-institutional approach. Planning to submit as exempt from research under QI lens since no identifiable information will be collected. Hoping this allows data collection from other institutions without lengthy multi-site IRB review. Still need to: decide final local vs multi-site approach, reach out to Tama at UKY.
