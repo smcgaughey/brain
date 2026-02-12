@@ -6,7 +6,7 @@
 
 ---
 
-## Peer-Reviewed Journal Articles
+## I. Peer-Reviewed Published Research
 
 ### 1. Adverse safety events in emergency medical services care of children with out-of-hospital cardiac arrest
 - **Authors**: Eriksson CO, Bahr N, Meckler G, Hansen M, Walker-Stevenson G, Idris A, Aufderheide TP, Daya MR, Fink EL, Jui J, Luetje M, Martin-Gill C, **McGaughey S**, Pelletier J, Thomas D, Guise JM; Child Safety Initiative–Emergency Medical Services for Children
@@ -40,18 +40,10 @@
 - **DOI**: 10.1016/j.ajem.2024.10.041
 - **PMID**: 39504720
 - **Year**: 2025
-- **Role**: Co-author (senior/last author)
+- **Role**: Senior/last author
 - **Citations**: 1
 
-### 5. AI is not a four-letter word: Moving from resistance to responsible integration in emergency medicine education
-- **Authors**: **McGaughey S**, Wackett J, Silbermann E
-- **Journal**: AEM Education and Training. 2025;9(6):e70114
-- **DOI**: 10.1002/aet2.70114
-- **Year**: 2025
-- **Role**: First author / Corresponding author
-- **Citations**: —
-
-### 6. Scene time and outcome in pediatric out-of-hospital cardiac arrest: Findings from NEMSIS data
+### 5. Scene time and outcome in pediatric out-of-hospital cardiac arrest: Findings from NEMSIS data
 - **Authors**: Chung SH, Blair A, **McGaughey S**, Hansen M, Lupton J, Lin AL
 - **Journal**: Pediatric Emergency Care. 2024 (ahead of print)
 - **DOI**: 10.1097 (exact DOI pending confirmation)
@@ -60,7 +52,7 @@
 - **Citations**: —
 - **Note**: Listed on Google Scholar; may be epub ahead of print. Confirm exact DOI and page numbers.
 
-### 7. Survey of firearm storage practices and preferences among parents and caregivers of children
+### 6. Survey of firearm storage practices and preferences among parents and caregivers of children
 - **Authors**: Haag MB, Dennis CH, **McGaughey S**, Gilbert TA, DeFrancesco S, Gallardo AR, Hoffman BD, Carlson KF
 - **Journal**: Western Journal of Emergency Medicine. 2025;26(1):142–146
 - **DOI**: 10.5811/westjem.21205
@@ -69,7 +61,7 @@
 - **Role**: Co-author
 - **Citations**: —
 
-### 8. Restraints and seclusion: A multimodal approach to improving face-to-face documentation compliance in the emergency department
+### 7. Restraints and seclusion: A multimodal approach to improving face-to-face documentation compliance in the emergency department
 - **Authors**: Xu O, DeVane K, Chess L, **McGaughey S**, Orwoll B, Brockman T, Burns B
 - **Journal**: Journal of Patient Safety. 2025 (ahead of print)
 - **DOI**: 10.1097/PTS.0000000000001455
@@ -79,7 +71,20 @@
 
 ---
 
-## Book Chapters
+## II. Peer-Reviewed Published Perspectives & Commentaries
+
+### 8. AI is not a four-letter word: Moving from resistance to responsible integration in emergency medicine education
+- **Authors**: **McGaughey S**, Wackett J, Silbermann E
+- **Journal**: AEM Education and Training. 2025;9(6):e70114
+- **DOI**: 10.1002/aet2.70114
+- **Year**: 2025
+- **Type**: Commentary
+- **Role**: First author / Corresponding author
+- **Citations**: —
+
+---
+
+## III. Book Chapters
 
 ### 9. Neutropenic enterocolitis
 - **Authors**: **McGaughey S**, Cloutier RL
@@ -93,9 +98,11 @@
 
 ---
 
-## Published Abstracts
+## IV. Non-Peer-Reviewed Published Work
 
-### 10. 441 The impact of on-unit reconstitution of antibiotics to expedite treatment of pediatric patients with possible sepsis
+### Published Abstracts
+
+#### 10. 441 The impact of on-unit reconstitution of antibiotics to expedite treatment of pediatric patients with possible sepsis
 - **Authors**: Herrin R, Burns B, Hartenstein M, Eick L, Clark R, Lassiter J, Devane K, De Lima B, Hildebrand M, **McGaughey S**
 - **Journal**: Annals of Emergency Medicine. 2024;84(4):S198
 - **DOI**: 10.1016/S0196-0644(24)00892-8
@@ -103,24 +110,21 @@
 - **Type**: Conference abstract (ACEP 2024)
 - **Role**: Senior/supervising author
 
-### 11. Illness can precipitate weakness in patients with dystroglycanopathies (IN1-2.004)
+#### 11. Illness can precipitate weakness in patients with dystroglycanopathies (IN1-2.004)
 - **Authors**: **McGaughey S**, Eskuri J, Stephan C, Mathews K
 - **Journal**: Neurology. 2013;80(7 Supplement):IN1-2.004
 - **Year**: 2013
 - **Type**: Conference abstract (AAN 2013)
 - **Role**: First author
 
----
+### Theses
 
-## Theses & Institutional Publications
-
-### 12. Bridging the gap: Transitioning suicidal adolescents seen in the pediatric emergency department to home using a smartphone application
+#### 12. Bridging the gap: Transitioning suicidal adolescents seen in the pediatric emergency department to home using a smartphone application
 - **Author**: **McGaughey S**
 - **Institution**: Oregon Health & Science University
 - **Year**: 2020
 - **Type**: Master's thesis (MCI)
 - **URL**: https://digitalcollections.ohsu.edu/nanna/record/9745
-- **Note**: Not published in a peer-reviewed journal; available via OHSU Digital Collections
 
 ---
 
@@ -128,18 +132,18 @@
 
 | Category | Count |
 |---|---|
-| Peer-reviewed journal articles | 8 |
+| Peer-reviewed research articles | 7 |
+| Peer-reviewed perspectives/commentaries | 1 |
 | Book chapters | 1 |
-| Published abstracts | 2 |
-| Theses | 1 |
+| Non-peer-reviewed (abstracts, theses) | 3 |
 | **Total** | **12** |
 
-### By Author Position
+### By Author Position (Peer-Reviewed Only)
 | Position | Count |
 |---|---|
-| First author | 3 (articles #5, #9; abstract #11) |
-| Senior/last author | 2 (article #4; abstract #10) |
-| Co-author | 7 |
+| First author | 1 (#8 — AI commentary) |
+| Senior/last author | 1 (#4 — Neonatal presentations) |
+| Co-author | 6 |
 
 ---
 
