@@ -6,25 +6,25 @@ collaborators: [Nithin Ravi, Monica Saladik, Laura Waagmeester, Dalton Wesemann,
 status: under-review
 position: 1st-author
 theme: mental-health
-journal: Academic Pediatrics
+journal: Clinical Pediatrics
 permalink: research/adolescent-si
 ---
 
 # Psychiatric Medication Prescribing Patterns for Adolescents with Suicidal Ideation: A Two-Site Analysis
 
-**Status:**  SUBMITTED to Academic Pediatrics (January 29, 2026)  
-**Position:** 1st author  
+**Status:** Under Review at Clinical Pediatrics (MS# CLP-BR-26-081)
+**Position:** 1st author
 **Theme:** Mental Health & Behavioral
 
 ## Submission
 | Field | Value |
 |-------|-------|
-| Target Journal | Academic Pediatrics (Brief Report) |
-| Backup | Journal of Adolescent Health, Clinical Pediatrics |
-| **Submission Date** | **January 29, 2026  SUBMITTED (2 days ahead of deadline)** |
-| Decision Expected | March 1-15, 2026 (6-8 weeks) |
-| Estimated Acceptance | 85% |
-| **Status** | ** SUBMITTED January 29, 2026** |
+| Current Journal | Clinical Pediatrics (Brief Report) |
+| Prior Submission | Academic Pediatrics — desk rejected Feb 5, 2026 |
+| **Submission Date** | **February 6, 2026 (resubmitted Feb 9)** |
+| Manuscript ID | CLP-BR-26-081 |
+| Decision Expected | April-May 2026 |
+| **Status** | **Under Review** |
 ## Co-Authors
 All authors are affiliated with the Department of Emergency Medicine, Oregon Health & Science University, Portland, Oregon.
 
@@ -46,15 +46,18 @@ All authors are affiliated with the Department of Emergency Medicine, Oregon Hea
 Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to two Portland, Oregon sites (OHSU Emergency Department and Unity Center for Behavioral Health) between January 2022-December 2024. Study examines psychiatric medication prescribing patterns, specifically characterizing whether PCP prescribing occurs in contexts of psychiatrist availability versus unavailability. Manuscript format: Academic Pediatrics Brief Report (1,500-2,000 words). **Novel finding:** First study to distinguish PCP prescribing that occurs WITHOUT identified psychiatrists (66.1% of PCP prescriptions - workforce gap) from PCP prescribing that occurs WITH identified psychiatrists available (33.9% - coordination gap), revealing need for dual intervention strategies.
 
 ## Current Status
-**Manuscript Phase:**  SUBMITTED to Academic Pediatrics (January 29, 2026)
+**Manuscript Phase:** Under Review at Clinical Pediatrics (MS# CLP-BR-26-081)
 
 **Timeline Update:**
 - January 16, 2026: Manuscript distributed to 5 co-authors
 - January 21, 2026: Dr. Sheridan feedback incorporated, prescriber data updated
 - January 24, 2026: Statistical validation completed (97% match rate)
 - January 28, 2026: Final draft finalized
-- **January 29, 2026:  SUBMITTED to Academic Pediatrics (2 days ahead of deadline)**
-- **March-April 2026:** Expected first decision (6-8 weeks)
+- **January 29, 2026:** Submitted to Academic Pediatrics
+- **February 5, 2026:** Desk rejected from Academic Pediatrics
+- **February 6, 2026:** Submitted to Clinical Pediatrics (MS# CLP-BR-26-081)
+- **February 9, 2026:** Resubmitted with editorial items (educational objectives, ICMJE form)
+- **April-May 2026:** Expected first decision from Clinical Pediatrics
 
 **Submission Accomplishments:** 
 -  All statistics validated (97% perfect match)
@@ -108,14 +111,14 @@ Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to
 - [x] Incorporate Dr. Sheridan feedback (completed January 21, 2026)
 - [x] Update prescriber data (completed January 21, 2026)
 - [x] Finalize manuscript (completed January 28, 2026)
-- [x] **Submit to Academic Pediatrics (completed January 29, 2026) **
+- [x] Submit to Academic Pediatrics (January 29, 2026 — desk rejected Feb 5)
+- [x] **Resubmit to Clinical Pediatrics (completed February 6-9, 2026)**
 
 **Next Steps:**
-1. Await first decision from Academic Pediatrics (expected March-April 2026)
+1. Await first decision from Clinical Pediatrics (expected April-May 2026)
 2. If minor revisions requested, complete within 2 weeks
 3. If major revisions, consult with Dr. Sheridan
-4. If rejected, revise for Journal of Adolescent Health (backup journal)
-5. Update CV with submission status
+4. Update CV with submission status
 ## Timeline
 - **December 22, 2025:** Project initiated, IRB approval granted
 - **January 9, 2026:** Journal selection strategy finalized (Academic Pediatrics primary)
@@ -124,12 +127,13 @@ Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to
 - **January 21, 2026:** Updated prescriber data incorporated, Dr. Sheridan feedback integrated
 - **January 24, 2026:** Statistical validation confirmed (97% match rate)
 - **January 28, 2026:** Final draft completed
-- **January 29, 2026:**  **SUBMITTED TO ACADEMIC PEDIATRICS (2 days ahead of deadline)**
-- **March 1-15, 2026:** Expected first decision (6-8 weeks)
-- **April 2026:** Expected acceptance (with minor revisions)
-- **June-August 2026:** Expected publication
+- **January 29, 2026:** Submitted to Academic Pediatrics
+- **February 5, 2026:** Desk rejected from Academic Pediatrics
+- **February 6, 2026:** Submitted to Clinical Pediatrics (MS# CLP-BR-26-081)
+- **February 9, 2026:** Resubmitted with editorial items
+- **April-May 2026:** Expected first decision from Clinical Pediatrics
 
-**Project Duration:** 38 days from IRB approval to submission (December 22, 2025 - January 29, 2026) - Exceptionally rapid turnaround demonstrating productivity
+**Project Duration:** 46 days from IRB approval to final submission (December 22, 2025 - February 6, 2026)
 ## Activity Log
 
 - **2026-02-09:** Adolescent SI Prescribing - resubmitted to Clinical Pediatrics on Feb 9 after addressing editorial requests (added educational objectives, completed ICMJE authorship form). Received confirmation email from editor Adarsh Sharma. Timeline: 3-6 weeks to secure reviewers, then 3-6 weeks for decision. Estimated first decision: April-May 2026. Manuscript ID: CLP-BR-26-081.
@@ -349,10 +353,9 @@ Cross-sectional analysis of 153 adolescents with suicidal ideation presenting to
 - Prepare to respond to reviewer comments
 
 **Expected Timeline:**
-- **March-April 2026:** First decision expected (6-8 weeks from submission)
-- **If minor revisions:** Complete within 2 weeks  acceptance
+- **April-May 2026:** First decision expected from Clinical Pediatrics
+- **If minor revisions:** Complete within 2 weeks
 - **If major revisions:** Consult with Dr. Sheridan on approach
-- **If rejected:** Revise for Journal of Adolescent Health (backup journal)
 
 **Long-term:**
 - Present findings at national conference once accepted (PAS or AAP)
