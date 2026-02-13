@@ -96,7 +96,7 @@ Editorial feedback requested revisions before sending manuscript for full peer r
 ## Activity Log
 
 - **2026-02-13:** secure-chat - CORRECTION: Status is under-review, NOT revision-requested. Paper is under review at WestJEM. Blocked: yes, awaiting reviewer feedback. No action needed from Steve.
-- **2026-02-13:** secure-chat - Status confirmed: still under review at Western Journal of Emergency Medicine (WestJEM). No status change in many months. Awaiting reviewer feedback. No action needed. → _Status: revision-requested_
+- **2026-02-13:** secure-chat - Status confirmed: still under review at Western Journal of Emergency Medicine (WestJEM). No status change in many months. Awaiting reviewer feedback. No action needed.
 
 ## Notes
 
