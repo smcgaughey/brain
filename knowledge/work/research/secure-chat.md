@@ -34,10 +34,10 @@ permalink: research/secure-chat
 - **Obert Xu, MBBS, BSN** - Oregon Health and Science University, Department of Emergency Medicine, Portland, OR; xuo@ohsu.edu
 ## Project Summary
 
-Pre-post implementation study evaluating ED physician satisfaction with Epic Secure Chat following October 2024 implementation at academic ED (47 adult attendings, 15 pediatric attendings, 33 residents; 42 beds; 60,000 annual visits). Study compares secure messaging against traditional communication modalities (face-to-face, phone, paging) across five domains using 4-point Likert scales (ease of use, efficiency, timeliness, clarity, overall satisfaction). Survey response rates: 33% pre-implementation (n=31/95), 34% post-implementation (n=32/95). Includes objective workflow data showing reduction in repeat consult orders from 22% to 18% across 26,376 ED encounters (χ²(1, N = 26,376) = 50.51, p < .001). Manuscript formatted as WestJEM Brief Research Report (1,480 words, 1 table, 1 figure).
+Pre-post implementation study evaluating ED physician satisfaction with Epic Secure Chat following October 2024 implementation at academic ED (47 adult attendings, 15 pediatric attendings, 33 residents; 42 beds; 60,000 annual visits). Study compares secure messaging against traditional communication modalities (face-to-face, phone, paging) across five domains using 4-point Likert scales (ease of use, efficiency, timeliness, clarity, overall satisfaction). Survey response rates: 33% pre-implementation (n=31/95), 34% post-implementation (n=32/95). Includes objective workflow data showing reduction in repeat consult orders from 22% to 18% across 26,376 ED encounters (ÏÂ²(1, N = 26,376) = 50.51, p < .001). Manuscript formatted as WestJEM Brief Research Report (1,480 words, 1 table, 1 figure).
 
 ## Current Status
-**Revised manuscript resubmitted to WestJEM on November 11, 2025 (MS# 53220).** Initial submission occurred October 21, 2025. Editorial decision received November 4, 2025 requesting minor revisions before full peer review. Steven McGaughey took over as corresponding author and made significant revisions including addition of data not included in initial submission. Revised manuscript currently under peer review with 1 completed review. Manuscript formatted as Brief Research Report (1,480 words, 2 tables/figures). Statistical reporting includes complete Mann-Whitney U test results (medians, IQR, U statistics, p-values) for all satisfaction comparisons and chi-square analysis for repeat consult order reduction (22% to 18%, χ²(1, N = 26,376) = 50.51, p < .001).
+**Revised manuscript resubmitted to WestJEM on November 11, 2025 (MS# 53220).** Initial submission occurred October 21, 2025. Editorial decision received November 4, 2025 requesting minor revisions before full peer review. Steven McGaughey took over as corresponding author and made significant revisions including addition of data not included in initial submission. Revised manuscript currently under peer review with 1 completed review. Manuscript formatted as Brief Research Report (1,480 words, 2 tables/figures). Statistical reporting includes complete Mann-Whitney U test results (medians, IQR, U statistics, p-values) for all satisfaction comparisons and chi-square analysis for repeat consult order reduction (22% to 18%, ÏÂ²(1, N = 26,376) = 50.51, p < .001).
 ## Key Decisions
 
 - **June-July 2025**: Initially drafted as ~2,500-word manuscript with 6 tables - exceeded WestJEM Brief Research Report limits
@@ -46,9 +46,9 @@ Pre-post implementation study evaluating ED physician satisfaction with Epic Sec
 - **October 2025**: Chose WestJEM over Applied Clinical Informatics - better fit for emergency medicine audience; Brief Research Report format more appropriate than ACI's Brief Scientific Communication
 - **November 11, 2025**: Completed major revision - reduced to 1,480 words through aggressive content reduction while retaining all essential statistical findings; added complete U statistics throughout (Baratta et al. 2023, Luu et al. 2024, Gulacti et al. 2017 used as models)
 - **November 2025**: Corrected causation language throughout - changed from causal claims ("reduced repeat consults") to association language ("associated with reduction in repeat consults") to accurately reflect pre-post study design limitations
-- **November 2025**: Eliminated all AI-removal words - replaced "demonstrated" → "showed," "viable" → "workable," "adjunct" → "addition," "minimizing" → "reducing," "warranting" → "requiring," "advantages" → "benefits," "valuable" → "useful"
+- **November 2025**: Eliminated all AI-removal words - replaced "demonstrated" â "showed," "viable" â "workable," "adjunct" â "addition," "minimizing" â "reducing," "warranting" â "requiring," "advantages" â "benefits," "valuable" â "useful"
 - **November 2025**: Clarified IRB language - changed from "granted exemption" to "determined this project to be quality improvement, not human subjects research, thus not requiring IRB oversight" (accurate reflection of IRB Request for Determination process)
-- **November 2025**: Removed Type I error adjustment justification - decided unadjusted alpha (α = .05) appropriate for exploratory QI study with transparency about multiple comparisons rather than defensive Bonferroni correction
+- **November 2025**: Removed Type I error adjustment justification - decided unadjusted alpha (Î± = .05) appropriate for exploratory QI study with transparency about multiple comparisons rather than defensive Bonferroni correction
 - **October 21, 2025**: Initial manuscript submitted to WestJEM (MS# 53220) with Michaela Go as corresponding author
 - **November 4, 2025**: Editorial decision received requesting minor revisions before full peer review
 - **November 11, 2025**: Steven McGaughey took over as corresponding author, made significant revisions including addition of previously excluded data, and resubmitted revised manuscript
@@ -93,6 +93,10 @@ Editorial feedback requested revisions before sending manuscript for full peer r
 - **November 11, 2025**: Steven McGaughey took over as corresponding author, made significant revisions including addition of previously excluded data, and resubmitted revised manuscript
 - **Current**: Under peer review with 1 completed review
 
+## Activity Log
+
+- **2026-02-13:** secure-chat - Status confirmed: still under review at Western Journal of Emergency Medicine (WestJEM). No status change in many months. Awaiting reviewer feedback. No action needed. → _Status: revision-requested_
+
 ## Notes
 
 ### Study Design & Setting
@@ -105,7 +109,7 @@ Editorial feedback requested revisions before sending manuscript for full peer r
 ### Communication Workflows (Pre-Implementation)
 - **ED physicians**: Carried hospital phones for calls from transfer centers, prehospital providers, specialty consultants, nursing staff
 - **Physician-nurse communication**: Primarily face-to-face
-- **Specialty consultations**: Consult orders placed in EHR → command center pages consultant → return call connected to ED physician's direct line → follow-up required new consult order
+- **Specialty consultations**: Consult orders placed in EHR â command center pages consultant â return call connected to ED physician's direct line â follow-up required new consult order
 - **Nurses**: Used Vocera devices for nurse-to-nurse communication
 
 ### Secure Chat Tool Features
@@ -135,8 +139,8 @@ Editorial feedback requested revisions before sending manuscript for full peer r
 
 ### Statistical Methods
 - **Tests**: Mann-Whitney U for ordinal Likert scale satisfaction comparisons (non-parametric); Chi-squared test of independence for categorical repeat consult data
-- **Alpha level**: Unadjusted (α = .05); did not adjust for multiple comparisons - appropriate for exploratory QI study with transparency about comparisons
-- **Reporting standards**: All tests include medians, IQR, U statistics (or χ²), and p-values per medical journal standards (Baratta et al. 2023, Luu et al. 2024 as models)
+- **Alpha level**: Unadjusted (Î± = .05); did not adjust for multiple comparisons - appropriate for exploratory QI study with transparency about comparisons
+- **Reporting standards**: All tests include medians, IQR, U statistics (or ÏÂ²), and p-values per medical journal standards (Baratta et al. 2023, Luu et al. 2024 as models)
 - **Analysis tools**: Python 3.12.7 (NumPy 1.26.4, Pandas 2.2.2, SciPy 1.13.1, Plotly 5.24.1)
 - **Design**: Anonymous surveys with unpaired responses between timepoints
 
@@ -155,7 +159,7 @@ Editorial feedback requested revisions before sending manuscript for full peer r
    - Overall satisfaction: U = 224.0, p < .001
 
 **Workflow impact**:
-1. Repeat consult orders: 22% pre-implementation → 18% post-implementation (χ²(1, N = 26,376) = 50.51, p < .001) - 4 percentage point reduction associated with implementation
+1. Repeat consult orders: 22% pre-implementation â 18% post-implementation (ÏÂ²(1, N = 26,376) = 50.51, p < .001) - 4 percentage point reduction associated with implementation
 
 **Interruption burden**:
 1. Phone interruptions rated most disruptive (median = 3 "very disruptive")
@@ -272,7 +276,7 @@ ChatGPT used under human oversight as reference guide for running common statist
 
 **Literature gap**: Two prior ED studies (Luu et al. 2022 - workflow interruptions; Gulacti et al. 2017 - WhatsApp length of stay) but neither evaluated head-to-head satisfaction comparisons or EHR-integrated platform impact on consultant workflows
 
-**Key findings**: Secure chat superior to existing consult workflow across all domains (all p<.001); associated with 4 percentage point reduction in repeat consult orders (22% → 18%, p<.001); face-to-face maintains clarity advantage (important for appropriate use guidance)
+**Key findings**: Secure chat superior to existing consult workflow across all domains (all p<.001); associated with 4 percentage point reduction in repeat consult orders (22% â 18%, p<.001); face-to-face maintains clarity advantage (important for appropriate use guidance)
 
 **Journal alignment**: Directly aligns with WestJEM focus on "health systems and delivery of emergency care" and technology solutions for ED operations and workflow efficiency
 
