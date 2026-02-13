@@ -11,6 +11,8 @@ permalink: promotion/tracker
 
 > **Note:** This is an operational tracker, not a CV. Detailed information lives in individual files. Ask Claude: "Generate my CV from my research files" for a current summary.
 
+**Last updated:** February 13, 2026
+
 ---
 
 ## QUICK STATUS
@@ -43,23 +45,21 @@ Status is tracked in individual files. This is a lightweight index.
 - [[research/asd-restraints]] — JADD, 1st author
 - [[research/hypothermia]] — JEM, Senior author
 - [[research/ct-turnaround]] — Emergency Radiology, Middle author
-- [[research/secure-chat]] — WestJEM, Senior/Corresponding
-- [[research/adolescent-si]] — Academic Pediatrics, 1st author
+- [[research/secure-chat]] — WestJEM, Senior/Corresponding (no change in months)
+- [[research/adolescent-si]] — Clinical Pediatrics, 1st author (MS# CLP-BR-26-081; resubmitted Feb 9 after Acad Peds rejection; decision est. April–May 2026)
 
-### Submitting Q1 2026
-- [[research/covid-psych]] — PEC or JEM, Senior author (Maya finalizing)
-- [[research/jama-peds]] — JAMA Pediatrics, Middle author (Newgard lead)
-- [[research/critical-care]] — Target Mar-Apr, 1st author
+### Submitting Q1-Q2 2026
+- [[research/covid-psych]] — PEC, Senior author (Steve edited draft Feb 13; back with Maya for revisions)
+- [[research/critical-care]] — Target mid-March 2026, 1st author (analysis meeting Feb 13; submit in 3-4 weeks)
+- [[research/ai-scribe]] — Annals of Emergency Medicine, 2nd author (rejected from NEJM AI and JAMIA; Jordan leading resubmission)
 
-### In Preparation
+### In Preparation (not yet submitting)
+- [[research/jama-peds]] — JAMA Pediatrics, Middle author (Newgard lead; awaiting his final proof for co-author sign-off)
 - [[research/nuts-bolts-ai-literacy-paper]] — Academic Pediatrics (invited), 1st author
-- [[research/needs-assessment]] — Focus groups ongoing, 1st author/PI
-- [[research/ai-survey]] — IRB approved, Senior author
-- [[research/callback-rct]] — Figures/tables needed, Middle author
-- [[research/picu-tiered]] — Burns primary, Middle author
-
-### Needs Resubmission
-- [[research/ai-scribe]] — Rejected from NEJM AI, 2nd author
+- [[research/needs-assessment]] — Focus groups ongoing (final one March 19), 1st author/PI
+- [[research/ai-survey]] — IRB exemption pending, Senior author
+- [[research/callback-rct]] — Blocked on statistician, Middle author
+- [[research/picu-tiered]] — Burns primary, Middle author (awaiting response from Beach)
 
 ---
 
@@ -79,9 +79,9 @@ Status is tracked in individual files. This is a lightweight index.
 | Name | Relationship | Active Projects |
 |------|--------------|-----------------|
 | David Sheridan | Faculty mentor | Offers first-author opportunities |
-| Craig Newgard | JAMA Peds PI | jama-peds, large datasets |
+| Craig Newgard | JAMA Peds PI | jama-peds, critical-care |
 | Jack Marshall | Faculty | callback-rct |
-| Obert Xu | Peer | ct-turnaround |
+| Obert Xu | Peer | ct-turnaround, critical-care |
 | Maya Singh Sharkey | Mentee (MS4, May 2026) | covid-psych |
 | Jordan Wackett | AI collaborator | ai-scribe, nuts-bolts |
 
@@ -89,19 +89,22 @@ Status is tracked in individual files. This is a lightweight index.
 
 ## ACTION ITEMS
 
-### This Week
-- [ ] Monitor COVID Psych progress with Maya
-- [ ] Check Secure Chat peer review status (MS# 53220)
+### This Week (Feb 13, 2026)
+- [x] Edit Maya's COVID Psych draft — returned to Maya Feb 13
+- [x] Critical Care analysis meeting with Rochelle Fu, Craig, Obert, John (Feb 13)
+- [ ] Check Secure Chat peer review status (MS# 53220) — no movement in months
 
-### February 2026
-- [ ] Receive Craig Newgard feedback on Critical Care research plan
-- [ ] JAMA Peds submission (Newgard lead)
-- [ ] Critical Care data pull begins
+### February–March 2026
+- [ ] Critical Care: finalize analysis plan, write manuscript, target submission mid-March
+- [ ] JAMA Peds: await Newgard final proof, then co-author sign-off
+- [ ] AI Scribe: Jordan resubmits to Annals of EM
+- [ ] COVID Psych: Maya returns revised draft for further editing
+- [ ] Needs Assessment: final focus group March 19
 
-### Q1 2026
+### Q1-Q2 2026
 - [ ] Nuts & Bolts manuscript and figures complete
 - [ ] Create CONSORT diagram for Callback RCT
-- [ ] Conduct 3 remaining Needs Assessment focus groups
+- [ ] AI Survey: file IRB exemption form
 - [ ] Teaching portfolio organization
 
 ---
@@ -133,10 +136,13 @@ Status is tracked in individual files. This is a lightweight index.
 
 ## STRATEGIC NOTES
 
-### Projection to P&T
-- **Current published/accepted:** ~8
-- **Pipeline:** ~13 under review + submitting + in prep
-- **Projected at P&T:** 14-16 (assumes ~65% acceptance)
+### Projection to P&T (updated Feb 13, 2026)
+- **Current published/accepted (peer-reviewed):** 7 (+ 1 NEJM Perspectives)
+- **Under review:** 5 (ASD/JADD, Adolescent SI/Clin Peds, Hypothermia/JEM, CT/Emerg Radiol, Secure Chat/WestJEM)
+- **Submitting Q1-Q2 2026:** 3 (COVID Psych, Critical Care, AI Scribe)
+- **In preparation:** 6 (JAMA Peds, Nuts & Bolts, Needs Assessment, AI Survey, Callback RCT, PICU Tiered)
+- **Pipeline total:** ~14 papers under review + submitting + in prep
+- **Projected at P&T:** 14-16 (assumes ~65% acceptance from pipeline)
 - **Institutional median:** 15
 
 ### Strengths
