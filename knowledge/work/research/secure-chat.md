@@ -95,6 +95,7 @@ Editorial feedback requested revisions before sending manuscript for full peer r
 
 ## Activity Log
 
+- **2026-02-15:** SecureChat WestJEM - fix next step: Revise manuscript per editor feedback and resubmit to WestJEM within one week. Not a new journal - this is a major revision at the same journal. → _Status: under-review_
 - **2026-02-15:** SecureChat WestJEM paper - Editor decision received: Major revision required (not rejected). Senior author will handle revisions and resubmit within one week. Primary author has moved to private practice. To-do: revise manuscript per editor feedback, resubmit to WestJEM. Status change to: Revising.
 - **2026-02-13:** secure-chat - CORRECTION: Status is under-review, NOT revision-requested. Paper is under review at WestJEM. Blocked: yes, awaiting reviewer feedback. No action needed from Steve.
 - **2026-02-13:** secure-chat - Status confirmed: still under review at Western Journal of Emergency Medicine (WestJEM). No status change in many months. Awaiting reviewer feedback. No action needed. → _Status: revision-requested_
